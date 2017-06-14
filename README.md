@@ -36,8 +36,9 @@
    2. React
    3. React Native
    4. Redux
-   5. Functional Programming
-   6. Design
-   7. Environments
-   8. Deployment
+   5. APIs
+   6. Functional Programming
+   7. Design
+   8. Environments
+   9. Deployment
    
