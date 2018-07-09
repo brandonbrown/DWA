@@ -2,4 +2,4 @@
 
 [WAI Material](./wai)
 
-unchecked # [checkbox:unchecked]
+[ ] unchecked # [checkbox:unchecked]
