@@ -1,19 +1,17 @@
 # Course Materials, Website, and Supporting Resources for Web Application Integration
+
 ## This will require an update once a structure has been agreed upon
-##### Table of Contents
+
+##### Class Breakdown
 
 1. Overview
    1. Class Description
    2. Learning Outcomes
-   3. Prerequisites 
+   3. Prerequisites
    4. Instructor Guidelines
-   
-2. Timeline
-   1. Week 1
-   2. Week 2
-   3. Week 3
-   4. Week 4
-   
+
+2. [Timeline](./Timeline.md)
+
 3. Daily Breakdown
    1. Day One
    2. Day Two
@@ -25,12 +23,12 @@
    8. Day Eight
    9. Day Nine
    10. Day Ten
-   
+
 4. Website
    1. Purpose
    2. Maintenance
    3. Codebase
-   
+
 5. Supporting Resources
    1. JavaScript
    2. React
@@ -41,4 +39,3 @@
    7. Design
    8. Environments
    9. Deployment
-   
