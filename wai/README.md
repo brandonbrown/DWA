@@ -8,7 +8,7 @@
 3. [Instructor Guidelines](./InstructorGuidelines.md)
 4. [Prerequisites](./Prerequisites.md)
 5. [Threading](./Threading.md)
-6. [Class Content](./Class_Content)
+6. [Class Content](./Class Content)
 7. [Timeline](./Timeline.md)
 
 ### Website
