@@ -5,10 +5,10 @@
 ### Overview
 1. Class Description, Motivations, and Outlook
 2. [Learning Outcomes](./LearningOutcomes.md)
-3. Instructor Guidelines
-4. Prerequisites
-5. Threading
-6. Class Content
+3. [Instructor Guidelines](./InstructorGuidelines.md)
+4. [Prerequisites](./Prerequisites.md)
+5. [Threading](./Threading.md)
+6. [Class Content](./Class_Content)
 7. [Timeline](./Timeline.md)
 
 ### Website
