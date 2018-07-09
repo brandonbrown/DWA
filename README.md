@@ -2,7 +2,7 @@
 
 [WAI Material](./wai)
 
-# Things to consider
+### Things to consider
 
 - [ ] How do I write a class?
 - [ ] Who is the class for?

@@ -3,7 +3,7 @@
 ## This will require an update once a structure has been agreed upon
 
 ### Overview
-1. Class Description, Motivations, and Outlook
+1. [Class Description, Motivations, and Outlook](./Overview.md)
 2. [Learning Outcomes](./LearningOutcomes.md)
 3. [Instructor Guidelines](./InstructorGuidelines.md)
 4. [Prerequisites](./Prerequisites.md)
