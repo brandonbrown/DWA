@@ -1,5 +1,5 @@
 # Course Materials, Website, and Supporting Resources for Web Application Integration
-
+## This will require an update once a structure has been agreed upon
 ##### Table of Contents
 
 1. Overview
