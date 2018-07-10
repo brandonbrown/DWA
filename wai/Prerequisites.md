@@ -15,7 +15,7 @@
 #### Design and User Experience
 1. Adobe XD, Invision App, Marvel, or Sketch
 2. Illustrator and Photoshop
-3. Prototype Design
+3. Rapid Prototyping
 4. User Testing
 5. Design Thinking Techniques
 6. Multi-platform design or Design Systems Thinking
