@@ -24,5 +24,5 @@ The work you will perform in this class will primarily be a self-directed and in
 
 Myself and everyone at Full Sail are excited to see you enter this last phase of your time with us before graduation. Let's strap on those rockets and get this thing moving!
 
-**Brandon Brown**
+**Brandon Brown**  
 *Primary Instructor, WAI*
