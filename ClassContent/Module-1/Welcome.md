@@ -18,6 +18,11 @@ Welcome to Web Application Integrations! Here in WAI we’ll be working together
 
 We’re going to cover a lot in this class. Some will be new, much of it should be review, you’ll be pushing the boundaries of your interests, and your instructors will help to reinforce the areas you may need practice with.
 
-As part of WAI, you’ll be required to seek out critique, feedback, and direction from more than your primary instructor. All of your past learning experiences will be put to work throughout the remainder of your time as a student. This will require you to seek out the experts in the tools, techniques, and challenges that will arise through this time.
+As part of WAI, you’ll be required to seek out critique, feedback, and direction from more than your primary instructor. All of your past learning experiences will be put to work throughout the remainder of your time as a student. This will require you to seek out the experts in the tools, techniques, and challenges that will arise through this time. As part of this arrangement, your primary instructor will be seeking input and review from these same experts. Grading in this class will be collaborative to ensure a high-quality of work is created.
 
 The work you will perform in this class will primarily be a self-directed and instructor guided project. From concept to delivery, the responsibility falls upon you to communicate your progress, plan your tasks, and hold yourself and your peers accountable for following through on expectations.
+
+Myself and everyone at Full Sail are excited to see you enter this last phase of your time with us before graduation. Let's strap on those rockets and get this thing moving!
+
+**Brandon Brown**
+*Primary Instructor, WAI*
