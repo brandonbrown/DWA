@@ -4,11 +4,11 @@ This is the first production module for WAI. The students are tasked with pitchi
 
 #### Table of Contents
 
-##### Module 2: Pitch and Refine
-1. [RFP response](./#)
-2. [Formal Documented Pitch](./#)
-3. [Research](./#)
-4. [Prototype](./#)
-5. [Test](./#)
-6. [Present](./#)
-7. [Respond](./#)
+##### Activities: Pitch and Refine
+1. [RFP response](./RFP.md)
+2. [Formal Documented Pitch](./Pitch.md)
+3. [Research](./Research.md)
+4. [Prototype](./Prototype.md)
+5. [Test](./Test.md)
+6. [Present](./Present.md)
+7. [Respond](./Respond.md)
