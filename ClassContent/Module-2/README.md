@@ -1,10 +1,10 @@
-## WAI Module 2
+## WAI Module 2: Pitch and Critique
 
 This is the first production module for WAI. The students are tasked with pitching a project concept, proving its viability through the creation of an image based prototype, testing with appropriate users, and presenting the project at end of the week to instructors and classmates.
 
 #### Table of Contents
 
-##### Activities: Pitch and Refine
+##### Module 2 Activities
 1. [RFP response](./RFP.md)
 2. [Formal Documented Pitch](./Pitch.md)
 3. [Research](./Research.md)
