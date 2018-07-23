@@ -14,4 +14,10 @@ Let’s build something frightening together. Here’s how this class is going t
 
 ---
 
-Welcome to Web Application Integrations! Here in WAI we’ll be working together to build applications far too big for a single month. So you’ll instead have two! Work done here in WAI will carry forward into your next classes, Deployment of Web Applications and Project and Portfolio VII.
+Welcome to Web Application Integrations! Here in WAI we’ll be working together to build applications far too big for a single month. So you’ll instead have three! Work done here in WAI will carry forward into your next classes, Deployment of Web Applications and Project and Portfolio VII.
+
+We’re going to cover a lot in this class. Some will be new, much of it should be review, you’ll be pushing the boundaries of your interests, and your instructors will help to reinforce the areas you may need practice with.
+
+As part of WAI, you’ll be required to seek out critique, feedback, and direction from more than your primary instructor. All of your past learning experiences will be put to work throughout the remainder of your time as a student. This will require you to seek out the experts in the tools, techniques, and challenges that will arise through this time.
+
+The work you will perform in this class will primarily be a self-directed and instructor guided project. From concept to delivery, the responsibility falls upon you to communicate your progress, plan your tasks, and hold yourself and your peers accountable for following through on expectations.
