@@ -15,5 +15,5 @@ This is Discovery Phase for the students' projects. The students are tasked with
 4. [Research](./Research.md)
 5. [Prototype](./Prototype.md)
 6. [Test](./Test.md)
-7. [Present](./Present.md)
+7. [Present](./Pitch.md)
 8. [Respond](./Respond.md)

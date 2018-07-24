@@ -17,7 +17,7 @@
 4. [Research](./Module-2-Pitch/Research.md)
 5. [Prototype](./Module-2-Pitch/Prototype.md)
 6. [Test](./Module-2-Pitch/Test.md)
-7. [Present](./Module-2-Pitch/Present.md)
+7. [Present](./Module-2-Pitch/Pitch.md)
 8. [Respond](./Module-2-Pitch/Respond.md)
 
 

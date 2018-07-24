@@ -26,7 +26,6 @@ Used with care, an approval process ensures curriculum development and class con
 
 #### Website
 
-
 1. Purpose
     - TBD
 2. Maintenance
