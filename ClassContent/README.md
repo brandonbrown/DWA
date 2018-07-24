@@ -15,6 +15,8 @@
 2. [RFP response](./Module-2-Pitch/RFP.md)
 3. [Project Specifications - Draft](./Module-2-Pitch/Specs.md)
 4. [Research](./Module-2-Pitch/Research.md)
+5. [Management](./Module-2-Pitch/Management.md)
+
 5. [Prototype](./Module-2-Pitch/Prototype.md)
 6. [Test](./Module-2-Pitch/Test.md)
 7. [Present](./Module-2-Pitch/Pitch.md)
