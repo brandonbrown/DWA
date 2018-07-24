@@ -1,6 +1,6 @@
 # WAI and Demonstration of Collaborative Curriculum Management Through Github
 
-#### Class Contents Directory
+### Table of Contents
 
 1. [Class Description, Motivations, and Outlook](./Overview.md)
 2. [Learning Outcomes](./LearningOutcomes.md)
