@@ -33,6 +33,7 @@ Submission 2: Report out on your accomplishments for the month by **Saturday nig
 - What are you most disappointed by?
 - Why did you succeed or fail in reaching your goals?
 - How are you feeling at this stage?
+- Any final thoughts?
 
 ### GRADING
 
