@@ -12,5 +12,6 @@ This is Discovery Phase for the students' projects. The students are tasked with
 1. [Milestone: Project Direction](./Milestone-1.md)
 2. [RFP response](./RFP.md)
 3. [Project Specifications](./Specs.md)
-4. [Research](./Research.md)
-5. [Management](./Management.md)
+4. [Stand Ups](./Standups.md)
+5. [Research](./Research.md)
+6. [Management](./Management.md)

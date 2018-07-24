@@ -1,5 +1,29 @@
 ## Milestone 1: Pitch
 
+Just as every project will require its own specialized set of technical specifications, there is no single format to best communicate the potential of a new project. Some projects may require the show of a formal, in-person event with an all-encompassing slide deck and handouts for each attendee, while others need a napkin and a handshake. For your project, its up to you to decide how you will share your concept with an audience who can provide critical and project shaping critique.
+
+Do not set out seeking pats-on-the-back and exuberant yes's from each person you share your concept with. Your pitch should be targeted to win your biggest critics over. Being prepared, mindful of your audience, and open to suggestions will get you to the meat of the best feedback.
+
+This week you will be creating a concept for your project, researching the potential of this concept, communicating your concept to those who can offer effective feedback, as well as planning how to effectively deliver a Minimum Viable Product by month's end.
+
+### Milestone Deliverables
+
+1. RFP Response
+2. Project Specifications Draft
+3. Concept Research
+5. Concept Prototype
+6. User Tests and Interviews
+7. The Pitch
+8. Stand Ups
+
+2. [RFP response](./RFP.md)
+2. [Project Specifications](./Specs.md)
+3. [Research](./Research.md)
+4. [Prototype](./Prototype.md)
+5. [Test](./Test.md)
+6. [Present](./Present.md)
+7. [Respond](./Respond.md)
+
 ### Pitch
 
 Just as every project will require its own specialized set of specifications, there is no single format to best communicate the potential of a new project. Some projects may require the show of a formal, in-person event with a formal slide deck and handouts for each attendee, while others need a napkin and a handshake. For your project, its up to you to decide how you will share your concept with an audience who can provide critical and project shaping critique.
