@@ -36,7 +36,7 @@
 5. [Management](./Module-4/Management.md)
 
 ##### [Module 5: Production](./Module-5/README.md)
-1. [Milestone: Minimal Viable Product](./Module-5/Milestone-4.md)
+1. [Milestone: Minimum Viable Product](./Module-5/Milestone-4.md)
 2. [Stand Ups](./Module-5/StandUp.md)
 3. [Research](./Module-5/Research.md)
 4. [Deliverables](./Module-5/Deliverables.md)
