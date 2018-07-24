@@ -2,6 +2,9 @@
 
 This is the first production module for WAI. The students are tasked with pitching a project concept, proving its viability through the creation of an image based prototype, testing with appropriate users, and presenting the project at end of the week to instructors and classmates.
 
+> Work spanning Week 1
+> Days 1 through 3
+
 #### Table of Contents
 
 ##### Module 2 Activities
