@@ -13,7 +13,4 @@ This is Discovery Phase for the students' projects. The students are tasked with
 2. [RFP response](./RFP.md)
 3. [Project Specifications](./Specs.md)
 4. [Research](./Research.md)
-5. [Prototype](./Prototype.md)
-6. [Test](./Test.md)
-7. [Present](./Pitch.md)
-8. [Respond](./Respond.md)
+5. [Management](./Management.md)
