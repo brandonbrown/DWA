@@ -1,5 +1,5 @@
-**From: Web Application Integrations
-Date: July 30, 2018
+**From: Web Application Integrations  
+Date: July 30, 2018  
 Re: Final Project**
 
 ## Web Application Integrations would like you to create a new product:
