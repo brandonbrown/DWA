@@ -13,7 +13,7 @@
 ##### [Module 2: Pitch and Critique](./Module-2-Pitch/README.md)
 1. [Milestone: Project Direction](./Module-2-Pitch/Milestone-1.md)
 2. [RFP response](./Module-2-Pitch/RFP.md)
-3. [Project Specifications](./Module-2-Pitch/Specs.md)
+3. [Project Specifications - Draft](./Module-2-Pitch/Specs.md)
 4. [Research](./Module-2-Pitch/Research.md)
 5. [Prototype](./Module-2-Pitch/Prototype.md)
 6. [Test](./Module-2-Pitch/Test.md)
@@ -23,9 +23,10 @@
 
 ##### [Module 3: Production 1](./Module-3-Production-1/README.md)
 1. [Milestone: Production Foundations](./Module-3-Production-1/Milestone-2.md)
-2. [Stand Ups](./Module-3-Production-1/StandUps.md)
-3. [Research](./Module-3-Production-1/Research.md)
-4. [Management](./Module-3-Production-1/Management.md)
+2. [Project Specifications - Final](./Module-3-Production-1/Specs-Final.md)
+3. [Stand Ups](./Module-3-Production-1/StandUps.md)
+4. [Research](./Module-3-Production-1/Research.md)
+5. [Management](./Module-3-Production-1/Management.md)
 
 ##### [Module 4: Production 2](./Module-4-Production-2/README.md)
 1. [Milestone: Production Core](./Module-4-Production-2/Milestone-3.md)
