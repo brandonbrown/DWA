@@ -4,6 +4,8 @@ This is the first production module for WAI. The students are tasked with pitchi
 
 > Work spanning Week 1  
 > Days 1 through 3
+>
+> Response to presentation feedback due before next lecture
 
 #### Table of Contents
 
