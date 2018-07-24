@@ -10,7 +10,7 @@
 5. [Student Expectations](./Module-1/StudentExpectations.md)
 6. [Pre-class Quiz](./Module-1/PreclassQuiz.md)
 
-##### [Module 2:Pitch and Critique](./Module-2/README.md)
+##### [Module 2: Pitch and Critique](./Module-2/README.md)
 1. [RFP response](./Module-2/RFP.md)
 2. [Formal Documented Pitch](./Module-2/Pitch.md)
 3. [Research](./Module-2/Research.md)
