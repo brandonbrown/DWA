@@ -1,0 +1,14 @@
+## WAI Module 3: Production
+
+This is the first production module for WAI. Students begin building their project according to their established timelines in the Project Specifications document. Likely, design and development are happening in tandem to meet the demands of the class's timeline.
+
+> Work spanning Week 2
+
+#### Table of Contents
+
+##### Module 3 Activities
+1. [Milestone: Project Foundations](./Milestone-2.md)
+2. [Stand Ups](./StandUp.md)
+3. [Research](./Research.md)
+4. [Deliverables](./Deliverables.md)
+5. [Management](./Management.md)

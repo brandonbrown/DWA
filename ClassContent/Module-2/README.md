@@ -1,6 +1,6 @@
 ## WAI Module 2: Pitch and Critique
 
-This is the first production module for WAI. The students are tasked with pitching a project concept, proving its viability through the creation of an image based prototype, testing with appropriate users, and presenting the project at end of the week to instructors and classmates.
+This is Discovery Phase for the students' projects. The students are tasked with pitching a project concept, proving its viability through the creation of an image based prototype, testing with appropriate users, and presenting the project at end of the week to instructors and classmates.
 
 > Work spanning Week 1  
 >
@@ -9,10 +9,11 @@ This is the first production module for WAI. The students are tasked with pitchi
 #### Table of Contents
 
 ##### Module 2 Activities
-1. [RFP response](./RFP.md)
-2. [Project Specifications](./Specs.md)
-3. [Research](./Research.md)
-4. [Prototype](./Prototype.md)
-5. [Test](./Test.md)
-6. [Present](./Present.md)
-7. [Respond](./Respond.md)
+1. [Milestone: Project Foundations](./Milestone-1.md)
+2. [RFP response](./RFP.md)
+3. [Project Specifications](./Specs.md)
+4. [Research](./Research.md)
+5. [Prototype](./Prototype.md)
+6. [Test](./Test.md)
+7. [Present](./Present.md)
+8. [Respond](./Respond.md)
