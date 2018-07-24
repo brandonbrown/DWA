@@ -31,17 +31,17 @@ Used with care, an approval process ensures curriculum development and class con
 2. Maintenance
 3. Codebase
 4. Content
-  - Supporting Resources and Research
-    1. JavaScript
-    2. React
-    3. React Native
-    4. Redux
-    5. APIs
-    6. Functional Programming
-    7. Design
-    8. Environments
-    9. Deployment
-    10. People to Follow
+    - Supporting Resources and Research
+      1. JavaScript
+      2. React
+      3. React Native
+      4. Redux
+      5. APIs
+      6. Functional Programming
+      7. Design
+      8. Environments
+      9. Deployment
+      10. People to Follow
 
 
 ### Considerations
