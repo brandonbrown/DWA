@@ -1,4 +1,4 @@
-## WAI Module 5: Production
+## WAI Module 5: MVP
 
 This is the last production module for WAI. Students finalize the project according to their timeline's goals. The student should have a Minimum Viable Product ready to be used in a deployment process in DWA and polished in Project and Portfolio VII.
 

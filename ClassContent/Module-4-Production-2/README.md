@@ -1,4 +1,4 @@
-## WAI Module 4: Production
+## WAI Module 4: Production 2
 
 This is a continued production module for WAI. Students begin building their project according to their established timelines in the Project Specifications document. Likely, design and development are happening in tandem to meet the demands of the class's timeline.
 

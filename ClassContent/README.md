@@ -21,21 +21,21 @@
 8. [Respond](./Module-2-Pitch/Respond.md)
 
 
-##### [Module 3: Production](./Module-3-Production-1/README.md)
+##### [Module 3: Production 1](./Module-3-Production-1/README.md)
 1. [Milestone: Production Foundations](./Module-3-Production-1/Milestone-2.md)
 2. [Stand Ups](./Module-3-Production-1/StandUp.md)
 3. [Research](./Module-3-Production-1/Research.md)
 4. [Deliverables](./Module-3-Production-1/Deliverables.md)
 5. [Management](./Module-3-Production-1/Management.md)
 
-##### [Module 4: Production](./Module-4-Production-2/README.md)
+##### [Module 4: Production 2](./Module-4-Production-2/README.md)
 1. [Milestone: Production Core](./Module-4-Production-2/Milestone-3.md)
 2. [Stand Ups](./Module-4-Production-2/StandUp.md)
 3. [Research](./Module-4-Production-2/Research.md)
 4. [Deliverables](./Module-4-Production-2/Deliverables.md)
 5. [Management](./Module-4-Production-2/Management.md)
 
-##### [Module 5: Production](./Module-5-MVP/README.md)
+##### [Module 5: MVP](./Module-5-MVP/README.md)
 1. [Milestone: Minimum Viable Product](./Module-5-MVP/Milestone-4.md)
 2. [Stand Ups](./Module-5-MVP/StandUp.md)
 3. [Research](./Module-5-MVP/Research.md)

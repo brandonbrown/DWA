@@ -1,4 +1,4 @@
-## WAI Module 3: Production
+## WAI Module 3: Production 1
 
 This is the first production module for WAI. Students begin building their project according to their established timelines in the Project Specifications document. Likely, design and development are happening in tandem to meet the demands of the class's timeline.
 
