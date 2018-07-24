@@ -12,7 +12,7 @@
 
 ##### [Module 2: Pitch and Critique](./Module-2/README.md)
 1. [RFP response](./Module-2/RFP.md)
-2. [Formal Documented Pitch](./Module-2/Pitch.md)
+2. [Project Specifications](./Module-2/Specs.md)
 3. [Research](./Module-2/Research.md)
 4. [Prototype](./Module-2/Prototype.md)
 5. [Test](./Module-2/Test.md)
