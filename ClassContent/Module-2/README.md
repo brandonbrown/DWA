@@ -3,15 +3,14 @@
 This is the first production module for WAI. The students are tasked with pitching a project concept, proving its viability through the creation of an image based prototype, testing with appropriate users, and presenting the project at end of the week to instructors and classmates.
 
 > Work spanning Week 1  
-> Days 1 through 3
 >
-> Response to presentation feedback due before next lecture
+> Response to presentation feedback and Project Specifications due before Day 4 Lecture
 
 #### Table of Contents
 
 ##### Module 2 Activities
 1. [RFP response](./RFP.md)
-2. [Formal Documented Pitch](./Pitch.md)
+2. [Project Specifications](./Specs.md)
 3. [Research](./Research.md)
 4. [Prototype](./Prototype.md)
 5. [Test](./Test.md)
