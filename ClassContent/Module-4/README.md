@@ -7,7 +7,7 @@ This is a continued production module for WAI. Students begin building their pro
 #### Table of Contents
 
 ##### Module 4 Activities
-1. [Milestone: Project Foundations](./Milestone-3.md)
+1. [Milestone: Production Core](./Milestone-3.md)
 2. [Stand Ups](./StandUp.md)
 3. [Research](./Research.md)
 4. [Deliverables](./Deliverables.md)

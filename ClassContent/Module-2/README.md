@@ -9,7 +9,7 @@ This is Discovery Phase for the students' projects. The students are tasked with
 #### Table of Contents
 
 ##### Module 2 Activities
-1. [Milestone: Project Foundations](./Milestone-1.md)
+1. [Milestone: Project Direction](./Milestone-1.md)
 2. [RFP response](./RFP.md)
 3. [Project Specifications](./Specs.md)
 4. [Research](./Research.md)

@@ -11,7 +11,7 @@
 6. [Pre-class Quiz](./Module-1/PreclassQuiz.md)
 
 ##### [Module 2: Pitch and Critique](./Module-2/README.md)
-1. [Milestone: Project Foundations](./Module-2/Milestone-1.md)
+1. [Milestone: Project Direction](./Module-2/Milestone-1.md)
 2. [RFP response](./Module-2/RFP.md)
 3. [Project Specifications](./Module-2/Specs.md)
 4. [Research](./Module-2/Research.md)
@@ -22,21 +22,21 @@
 
 
 ##### [Module 3: Production](./Module-3/README.md)
-1. [Milestone: Project Foundations](./Module-3/Milestone-2.md)
+1. [Milestone: Production Foundations](./Module-3/Milestone-2.md)
 2. [Stand Ups](./Module-3/StandUp.md)
 3. [Research](./Module-3/Research.md)
 4. [Deliverables](./Module-3/Deliverables.md)
 5. [Management](./Module-3/Management.md)
 
 ##### [Module 4: Production](./Module-4/README.md)
-1. [Milestone: Project Foundations](./Module-4/Milestone-3.md)
+1. [Milestone: Production Core](./Module-4/Milestone-3.md)
 2. [Stand Ups](./Module-4/StandUp.md)
 3. [Research](./Module-4/Research.md)
 4. [Deliverables](./Module-4/Deliverables.md)
 5. [Management](./Module-4/Management.md)
 
 ##### [Module 5: Production](./Module-5/README.md)
-1. [Milestone: Project Foundations](./Module-5/Milestone-4.md)
+1. [Milestone: Minimal Viable Product](./Module-5/Milestone-4.md)
 2. [Stand Ups](./Module-5/StandUp.md)
 3. [Research](./Module-5/Research.md)
 4. [Deliverables](./Module-5/Deliverables.md)
