@@ -28,8 +28,11 @@ Used with care, an approval process ensures curriculum development and class con
 
 
 1. Purpose
+    - TBD
 2. Maintenance
+    - TBD
 3. Codebase
+    - TBD
 4. Content
     - Supporting Resources and Research
       1. JavaScript
