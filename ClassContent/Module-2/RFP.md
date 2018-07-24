@@ -13,8 +13,8 @@ Re: Final Project**
 3.  Project Goals
 4.  Scope of Work
 5.  Information Architecture
-6.  Technical Requirements
-7.  Project Timeline
+6.  Project Timeline
+7.  Technical Requirements
 8.  Specific Requests
 
 ### Project Overview
@@ -54,6 +54,9 @@ Additional things to include in the scope here, if applicable:
 ### Information Architecture
 As much as the visual design impacts visitors' perception of your company is the information design: how well thought out are your major site sections and navigation schema? If you already have a good idea how you'd like to organize it, include that here. (If not, that's OK too -- that'll be one of the first things you'll do during the sprint and discovery phases with your instructors.)
 
+### Project Timeline
+How will you fit your project into the time allotted over the next two or three months? Discuss timeline expectations with all of your final instructors.
+
 ### Technical Requirements
 This is a broad subject but your goal here is to describe what limitations or requirements you know in advance. An application is, at its core, a technical product, so these are the details that may most materially impact the schedule and deliverables. Some examples of technical requirements include:
 
@@ -83,9 +86,6 @@ Government & public sites often require Section 508 compliance. How do you plan 
 
 ### Mobile Responsive Design
 Do you require a separate mobile-optimized version of the application, or will you build one application for all devices? A layout optimized for small screens and tablets can make a big difference in the delight and satisfaction of site visitors.
-
-### Project Timeline
-How will you fit your project into the time allotted over the next two or three months? Discuss timeline expectations with all of your final instructors.
 
 ### More Information
 Anything else unique to your project?  Ultimately, how much detailed information do you have about the application?
