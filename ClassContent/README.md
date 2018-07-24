@@ -17,12 +17,6 @@
 4. [Research](./Module-2-Pitch/Research.md)
 5. [Management](./Module-2-Pitch/Management.md)
 
-5. [Prototype](./Module-2-Pitch/Prototype.md)
-6. [Test](./Module-2-Pitch/Test.md)
-7. [Present](./Module-2-Pitch/Pitch.md)
-8. [Respond](./Module-2-Pitch/Respond.md)
-
-
 ##### [Module 3: Production 1](./Module-3-Production-1/README.md)
 1. [Milestone: Production Foundations](./Module-3-Production-1/Milestone-2.md)
 2. [Project Specifications - Final](./Module-3-Production-1/Specs-Final.md)
