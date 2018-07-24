@@ -2,9 +2,9 @@
 Date: July 30, 2018  
 Re: Final Project**
 
-## Web Application Integrations would like you to create a new product:
+*Web Application Integrations would like you to create a new product:*
 
-You have been selected as a student to respond to this request and would like to ask you to prepare a proposal to accomplish the task that includes timeline, technical requirements, and deliverables. The following RFP includes a background of our organization and describes the purpose of the Final Project, its desired functionality, and specific requests relating to the proposal. We understand that details may be subject to change upon student recommendation and research.
+>You have been selected as a student to respond to this request and would like to ask you to prepare a proposal to accomplish the task that includes timeline, technical requirements, and deliverables. The following RFP includes a background of Final Project and describes the purpose of your Final Project, its desired functionality, and specific requests relating to the proposal. We understand that details may be subject to change upon student recommendation and research.
 
 ### Table of Contents
 
