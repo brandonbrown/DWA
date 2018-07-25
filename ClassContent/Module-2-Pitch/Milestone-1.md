@@ -24,6 +24,8 @@ On Day One of this class you will receive a prompt to conceive and execute on a 
 
 #### 2. Project Specifications Draft
 
+**Application production will not begin until this document is finalized and approved.**  
+
 Over the course of the first two weeks of class, you'll be expected to create, maintain, and expand on a Project Specifications document. This will describe your project in detail. This will include all major sections of the RFP, plus any other items you require to fully detail your project. A draft of this document is expected by this milestone's completion. This document may be modified after the Discovery Phase through change requests.
 
 #### 3. Concept Research

@@ -14,7 +14,23 @@
 
 ### Milestone Deliverable Details
 
-#### 1. Content Detail
+#### 1. Final Specifications Document
+
+**Application production will not begin until this document is finalized and approved.**  
+
+The absolute last moment this document will be accepted is Wednesday night at 11:59PM. Failure to meet this deadline will incur drastic consequences to your project expectations as well as your overall class grade. Do not miss this deadline. Early submissions are encouraged.
+
+#### 2. Kickoff Video Presentation
+
+Every project needs to start down the right path with a great sense of positive energy. To accomplish this, you will create a kick-off video presentation that summarizes your concept as a concrete set of expectations. The content of this video should not create more questions but show that you've done your work to eliminate blind-spots with the help of the experienced faculty. This video will be shared with faculty Friday afternoon, requiring you to have it completed by Thursday evening. In about 5 to 7 minutes, to the best of your abilities describe the following:
+
+1. Introduction: Who you are and your application's elevator pitch.
+2. Concerns and challenges that were uncovered through the Discovery Phase
+3. Your response to these concerns and challenges
+4. A high-level explanation of production plans
+5. Summary of your application and key reminders
+
+Remember, this is to communicate your concept has evolved into a concrete plan to professionals in your network. This video should instill confidence and provide reassurance that you are the right person or team to build this project.
 
 #### 3. Continued Research
 
