@@ -7,9 +7,10 @@
 1. Video Presentation of MVP
 2. Handoff Documentation
 3. Modified Design Artifacts
-4. Milestone-4 Pull Request
-5. Code Archive
-6. Stand Ups and Post Mortem
+4. Continued Research
+5. Milestone-4 Pull Request
+6. Code Archive
+7. Stand Ups and Post Mortem
 
 ### Milestone Deliverable Details
 
