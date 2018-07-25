@@ -19,6 +19,9 @@ This week you will be creating a concept for your project, researching the poten
 ### Milestone Deliverable Details
 
 #### 1. RFP Response
+
+On Day One of this class you will receive a prompt to conceive and execute on a new application concept. A response to this prompt is due by Tuesday night in the form of a PDF document submitted to this activity. This document summarizes your concept at a high-level. Include a small but well thought out description of the application, a few major features, expected technology stack, and a small summary of why you think this application is the best use of your time. This document does not lock you in to features or technology choices.
+
 #### 2. Project Specifications Draft
 #### 3. Concept Research
 #### 5. Concept Prototype
