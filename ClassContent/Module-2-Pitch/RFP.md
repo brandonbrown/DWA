@@ -29,7 +29,7 @@ Explain what you plan to accomplish or what outcome you have in mind. What are t
 Whom do you plan to serve with the application? Which constituencies most rely on a successful application, in order of importance? Sometimes, the audience you’re intending to reach or serve with the application is not the same as your wider market. For example, a non-profit site might need mainly to demonstrate its programs’ efficacy to donors and supporters, not necessarily serve its beneficiaries. Similarly, a startup may be more focused on attracting investors than customers and an established business may only really care about their largest 5% of clients.
 
 ### Scope of Work
-Here’s where you want to provide more detail about the project. To the extent you can, describe all the services you know that you’ll be hiring a web team for. For example, with an application project, you might be responsible for:
+Here’s where you want to provide more detail about the project. To the extent you can, describe every major feature of and its importance to the project's success. For example, with an application project, you may be responsible for:
 
 •	Project management
 •	Content strategy
@@ -43,22 +43,19 @@ Here’s where you want to provide more detail about the project. To the extent 
 •	Custom software or app development
 •	Mobile device optimization
 •	Testing & quality assurance
-
-For a task like Information Design, maybe the deliverables are a site map and wireframes. For Visual Design, it may be a prototype or static images. Something like Project management doesn’t really have a deliverable but it’s a non-trivial part of the process and doing it well is a valuable part of successful projects. Aim to be explicit about what you will deliver but it’s OK if you don’t know exactly what’s involved.
-
-Additional things to include in the scope here, if applicable:
-
 •	Timeline for Completion
-•	Deliverables
+•	Final Deliverables
+
+For a task like Information Design, maybe the deliverables are a site map and wireframes. For Visual Design, it may be a prototype, mood board, or high-fidelity compositions. Something like Project management won't really have a deliverable, however it should be clearly outlined which tools, processes, and communication expectations you'll be holding yourself to. Aim to be explicit about what you will deliver, and remember to reach out for critique and feedback to find your blindspots.
 
 ### Information Architecture
-As much as the visual design impacts visitors' perception of your company is the information design: how well thought out are your major site sections and navigation schema? If you already have a good idea how you'd like to organize it, include that here. (If not, that's OK too -- that'll be one of the first things you'll do during the sprint and discovery phases with your instructors.)
+As much as the visual design impacts visitors' perception of your company is the information design: how well thought out are your major site sections and navigation schema? If you already have a good idea how you'd like to organize it, include that here. (If not, that's OK too -- that'll be one of the many things you'll do during the sprint and discovery phase with your instructors.)
 
 ### Project Timeline
 How will you fit your project into the time allotted over the next two or three months? Discuss timeline expectations with all of your final instructors.
 
 ### Technical Requirements
-This is a broad subject but your goal here is to describe what limitations or requirements you know in advance. An application is, at its core, a technical product, so these are the details that may most materially impact the schedule and deliverables. Some examples of technical requirements include:
+This is where detail really matters. To the smallest detail, outline your application's feature set. This section will see the most revisions as you research and obtain feedback from your peers.
 
 ### E-commerce
 Do you expect to sell products or charge credit cards? A non-profit may only want to accept simple (or recurring) donations but retail merchants require shopping carts, user accounts, inventory control, shipping calculators, and security.
