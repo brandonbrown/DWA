@@ -32,9 +32,14 @@ Every project needs to start down the right path with a great sense of positive 
 
 Remember, this is to communicate your concept has evolved into a concrete plan to professionals in your network. This video should instill confidence and provide reassurance that you are the right person or team to build this project.
 
-#### 3. Continued Research
 
-You will be expected to show active and thorough research into your concept application(s). This can be in the form of target market research, competitive analysis, technology possibilities, and more. This research will be documented through a discussion activity which your instructor will challenge assumptions and claims made without properly researched support.
+#### 3. Modified Design Artifacts
+
+Over the course of discovery, you've been testing, interviewing, and presenting concepts to potential users. Your design assumptions should have shifted to understandings and your design artifacts should reflect this. Please update any documentation, links, or files containing design examples that have been shared with your instructors.
+
+#### 4. Continued Research
+
+You will be expected to show continued thorough research into your concept application(s). This can be in the form of target market research, competitive analysis, technology possibilities, and more. This research will be documented through a discussion activity which your instructor will challenge assumptions and claims made without properly researched support.
 
 #### 7. Stand Ups
 
