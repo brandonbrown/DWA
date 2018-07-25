@@ -8,6 +8,5 @@ This is the first production module for WAI. Students begin building their proje
 
 ##### Module 3 Activities
 1. [Milestone: Project Foundations](./Milestone-2.md)
-2. [Stand Ups](./StandUps.md)
+2. [Stand Ups and Project Management](./StandUps.md)
 3. [Research](./Research.md)
-4. [Management](./Management.md)

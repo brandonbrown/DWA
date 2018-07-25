@@ -8,6 +8,5 @@ This is the last production module for WAI. Students finalize the project accord
 
 ##### Module 5 Activities
 1. [Milestone: Minimum Viable Product](./Milestone-4.md)
-2. [Stand Ups](./StandUpAndPostMortem.md)
+2. [Stand Ups and Project Management](./StandUpAndPostMortem.md)
 3. [Research](./Research.md)
-4. [Management](./Management.md)
