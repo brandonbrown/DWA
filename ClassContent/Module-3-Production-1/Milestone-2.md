@@ -41,6 +41,12 @@ Over the course of discovery, you've been testing, interviewing, and presenting 
 
 You will be expected to show continued thorough research into your concept application(s). This can be in the form of target market research, competitive analysis, technology possibilities, and more. This research will be documented through a discussion activity which your instructor will challenge assumptions and claims made without properly researched support.
 
+#### 5. Milestone-2 Pull Request
+
+At each major milestone, any work done through GitHub will be delivered as a Pull Request. This Pull Request may be accepted or rejected by any instructor involved with the management of your project. A rejected Pull Request that is not corrected before the Sunday night deadline will incur a late penalty. Be sure to plan enough time for instructors to review your work.
+
+*Instructors may submit review of your Pull Request after the deadline if not allocated enough time before. A Pull Request submitted before the deadline and approved after will not incur the late penalty. However, a submission close to the deadline does not shift responsibility to the instructor.*
+
 #### 7. Stand Ups
 
 Each week you are expected to deliver a series of stand up posts to FSO. This week, your initial post will describe your plans for the week ahead. You may still be in the Discovery Phase, or you may be ready to move into Producion. Your stand up should reflect this progress and include an updated link to your project management solution described in Module 1. Your end of week post will reflect on the progress you've made, both positive and negative, and honestly describe accomplishments and setbacks.
