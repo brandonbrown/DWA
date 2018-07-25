@@ -47,6 +47,19 @@ At each major milestone, any work done through GitHub will be delivered as a Pul
 
 *Instructors may submit review of your Pull Request after the deadline if not allocated enough time before. A Pull Request submitted before the deadline and approved after will not incur the late penalty. However, a submission close to the deadline does not shift responsibility to the instructor.*
 
+#### 6. Code Archive
+
+Along with a Pull Request, an archive of all artifacts created during the week must be submitted to FSO. This archive is expected by Sunday night at 11:59pm.
+
+Artifacts that should be included are:
+
+1. Full code-base snapshot
+2. Database Dumps
+3. Links to any third party management system: Github, Trello, InvisionApp, etc.
+4. Non-production design files. Do not submit .psd, .ai, .xd, etc.
+5. New documentation or files submitted to instructors
+6. Other important, project shaping files or assets
+
 #### 7. Stand Ups
 
 Each week you are expected to deliver a series of stand up posts to FSO. This week, your initial post will describe your plans for the week ahead. You may still be in the Discovery Phase, or you may be ready to move into Producion. Your stand up should reflect this progress and include an updated link to your project management solution described in Module 1. Your end of week post will reflect on the progress you've made, both positive and negative, and honestly describe accomplishments and setbacks.
