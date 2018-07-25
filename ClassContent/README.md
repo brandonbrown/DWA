@@ -12,7 +12,7 @@
 
 ##### [Module 2: Pitch and Critique](./Module-2-Pitch/README.md)
 1. [Milestone: Project Direction](./Module-2-Pitch/Milestone-1.md)
-2. [RFP response](./Module-2-Pitch/RFP.md)
+2. [RFP](./Module-2-Pitch/RFP.md)
 3. [Stand Ups](./Module-2-Pitch/StandUps.md)
 4. [Project Specifications - Draft](./Module-2-Pitch/Specs.md)
 5. [Research](./Module-2-Pitch/Research.md)
