@@ -1,6 +1,6 @@
 ## Milestone 3: Production Core
 
-How did your first week of production go? This week is your first chance to dedicate all of your time to the construction of your application. Use it wisely! Time management, focus, and honest self-critique are the skills you'll need to rely on heavily to adhere to your plan and overcome any challenges that arise at this point.
+How did your first week of production go? This week is your first chance to dedicate all of your time to the construction of your application. Use it wisely! Time management, focus, and honest self-critique are the skills you'll need to rely on heavily to adhere to your plan and overcome any challenges that arise at this point. Keep moving forward, don't get hung up in details, and don't open the door for doubt as it will only slow you down.
 
 ### Milestone Deliverables
 
