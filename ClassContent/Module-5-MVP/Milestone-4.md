@@ -18,7 +18,14 @@ As you reach this stage, you may be feeling a bit of panic that you haven't done
 
 #### 1. Video Presentation of MVP
 
+It's time for you to show off! You've put in a time-shifting amount of work this month, let the stake-holders know that their confidence in you should be stronger than ever. This video should also be made with a thought to the future. As you've been creating videos for this class, you've documented your progress in an easy to digest, visual and audio manner that can be shared with potential employers- maybe investors! This video is key to this process- show what you were able to do as it reflects your original planning and scope. Employers, investors, and stake-holders want to know you can be trusted to reach the goals you set out to hit. In about 3 to 5 minutes, you should discuss the following points:
 
+1. Introduction: Who you are and your application's elevator pitch.
+2. Demonstrate how your application solves a problem with its main functionality
+2. Demonstrate secondary key functionality
+3. Discuss where you exceeded or missed expectations
+4. Discuss how and why you will adjust remaining scope
+5. Summary of your application and key reminders
 
 #### 2. Handoff Documentation
 
