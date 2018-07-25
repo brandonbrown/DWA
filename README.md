@@ -10,6 +10,14 @@
 6. [Class Content](./ClassContent)
 7. [Timeline](./Timeline.md)
 
+### WAI To-do
+
+- [x] Module 1 Base Content
+- [ ] Module 2 Base Content
+- [ ] Module 3 Base Content
+- [ ] Module 4 Base Content
+- [ ] Module 5 Base Content
+
 ### How to use this Project
 
 #### Repo Branch Structure
