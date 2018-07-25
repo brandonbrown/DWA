@@ -14,7 +14,7 @@ How did your first week of production go? This week is your first chance to dedi
 
 #### 1. Modified Design Artifacts
 
-Over the course of discovery, you've been testing, interviewing, and presenting concepts to potential users. Your design assumptions should have shifted to understandings and your design artifacts should reflect this. Please update any documentation, links, or files containing design examples that have been shared with your instructors.
+Over the course of production you've been able to interact with your designs and have likely found places that require change. Please update any documentation, links, or files containing design examples that have been shared with your instructors to avoid any misunderstandings or confusion of mismatched design visuals.
 
 #### 2. Milestone-3 Pull Request
 
