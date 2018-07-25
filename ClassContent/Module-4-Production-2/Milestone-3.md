@@ -24,7 +24,7 @@ At each major milestone, any work done through GitHub will be delivered as a Pul
 
 #### 3. Continued Research
 
-You will be expected to show continued thorough research into your concept application(s). This can be in the form of target market research, competitive analysis, technology possibilities, and more. This research will be documented through a discussion activity which your instructor will challenge assumptions and claims made without properly researched support.
+You will be expected to show continued thorough research into your application. This can be in the form of target market research, competitive analysis, technology possibilities, and more. This research will be documented through a discussion activity which your instructor will challenge assumptions and claims made without properly researched support.
 
 #### 4. Code Archive
 
