@@ -56,4 +56,4 @@ Remember, this is to introduce the concept to a wide network of professionals. Y
 
 #### 8. Stand Ups
 
-Each week you are expected to deliver a series of stand up posts to FSO. This week, your initial post will include your follow up steps for research, rapid prototyping, documentation creation, and project management information such as links to a GitHub repo and a Trello board. Your second submission should reflect on your pitch, feedback you've received, and how overall progress of this Discovery phase is proceeding.
+Each week you are expected to deliver a series of stand up posts to FSO. This week, your initial post will include your follow up steps for research, rapid prototyping, documentation creation, and project management information such as links to a GitHub repo with filed issues and/or a Trello board. Your second submission should reflect on your pitch, feedback you've received, and how overall progress of this Discovery phase is proceeding.
