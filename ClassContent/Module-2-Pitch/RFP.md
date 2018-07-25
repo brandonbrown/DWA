@@ -1,10 +1,10 @@
-**From: Web Application Integrations  
+**From: Capstone Project Team
 Date: July 30, 2018  
 Re: Final Project**
 
-*Web Application Integrations would like you to create a new product:*
+*The Web Capstone Project Team would like you to create a new product:*
 
->You have been selected as a student to respond to this request and would like to ask you to prepare a proposal to accomplish the task that includes timeline, technical requirements, and deliverables. The following RFP includes a background of Final Project and describes the purpose of your Final Project, its desired functionality, and specific requests relating to the proposal. We understand that details may be subject to change upon student recommendation and research.
+>You have been selected as a student to respond to this request and we would like to ask you to prepare a proposal to accomplish the task that includes timeline, technical requirements, and deliverables. The following RFP includes a background of Final Project and describes the purpose of your Final Project and specific requests relating to the proposal. We understand that details may be subject to change upon student and stake-holder recommendations.
 
 ### Table of Contents
 
@@ -81,7 +81,7 @@ Do you require membership management in your application?
 ### Accessibility
 Government & public sites often require Section 508 compliance. How do you plan to handle accessibility?
 
-### Mobile Responsive Design
+### Responsive Design
 Do you require a separate mobile-optimized version of the application, or will you build one application for all devices? A layout optimized for small screens and tablets can make a big difference in the delight and satisfaction of site visitors.
 
 ### More Information
