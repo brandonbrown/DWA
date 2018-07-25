@@ -39,6 +39,6 @@ Artifacts that should be included are:
 5. New documentation or files submitted to instructors
 6. Other important, project shaping files or assets
 
-#### 7. Stand Ups
+#### 5. Stand Ups
 
 Each week you are expected to deliver a series of stand up posts to FSO. This week, your initial post will describe your plans for the week ahead. Your stand up should reflect progress and include an updated link to your project management solution described in Module 1. Your end of week post will reflect on the progress you've made, both positive and negative, and honestly describe accomplishments and setbacks.

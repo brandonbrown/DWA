@@ -1,6 +1,12 @@
 ## Milestone 2: Production Foundations
 
---
+As your concept begins to find clarity, you may be finding that your initial scope has drastically changed. This is okay. You're closing in on the end of the Discovery Phase this way, and will soon find yourself in production. To make this shift seamlessly, you'll need to provide a way to communicate all of your findings, plans, and expectations clearly to those who can help you finalize this phase.
+
+As your one source of truth, you'll be providing a document that will outline all of your project's requirements. This Specifications Document will contain everything that will have dramatic impact on the production of your project. Upon completion and approval of this document, you will be allowed to move forward into production. With out approval, any time spent writing code or designing large amounts of assets could be wasted effort.
+
+Upon completion of the Specifications Document, you will also need to communicate that the shift to production is happening to all stake-holders. The stake-holders in this case are all the faculty members you've interacted with during your time here at Full Sail. Your projects outcomes are also a reflection of our teaching, we have a high-stake interest in the success of this project. Share your confidence, excitement, and remove any doubt about the future success of your project with a short kick-off video.
+
+This week will be the first time during the class that your plans and timeline are used. As you move into production make sure you stick by your plans. You may be in code, you may be creating designs. This is your time to shine and deadlines are closing in fast. Stick to your plan and make something great!
 
 ### Milestone Deliverables
 
