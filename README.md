@@ -1,8 +1,5 @@
 ### Current Content Status
 
-<<<<<<< HEAD
-Please refer to the **experimental** branch for most recent content
-=======
 ### Table of Contents
 
 1. [Class Description, Motivations, and Outlook](./Overview.md)
