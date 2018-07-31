@@ -34,7 +34,3 @@ Submission 2: Report out on your accomplishments for the month by **Saturday nig
 - Why did you succeed or fail in reaching your goals?
 - How are you feeling at this stage?
 - Any final thoughts?
-
-### GRADING
-
-Please refer to this [Project Rubric](./#) to understand the grading procedures for this assignment.

@@ -24,7 +24,3 @@ Submission 2: Report out on your accomplishments for the week by **Sunday night*
 - How are you doing?
 - Who have you talked/worked with?
 - Where did you find answers?
-
-### GRADING
-
-Please refer to this [Project Rubric](./#) to understand the grading procedures for this assignment.
