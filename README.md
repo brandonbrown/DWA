@@ -1,5 +1,7 @@
 ### Current Content Status
 
+Content on master is Live for 1808 Term
+
 ### Table of Contents
 
 1. [Class Description, Motivations, and Outlook](./Overview.md)
@@ -72,4 +74,3 @@ Create a task list:
 ```
 - [ ] Adds a checkbox
 ```
->>>>>>> proposed
