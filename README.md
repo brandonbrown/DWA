@@ -1,6 +1,6 @@
 ### Current Content Status
 
-Content on master is Live for 1808 Term
+Branching the WAI Content for DWA Implementation
 
 ### Table of Contents
 

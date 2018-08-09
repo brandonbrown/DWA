@@ -1,9 +1,9 @@
 ## Student Expectations
 
-As a student in WAI, you are expected to consistently Learn, Wonder, Create, Fail, Thrive, and to Show Up.
+As a student in DWA, you are expected to consistently Learn, Wonder, Create, Fail, Thrive, and to Show Up.
 
 ### Learn  
-Above everything else, a habit of continual and meaningful learning is the most useful trait of every Full Sail graduate. In Web Application Integrations, you are expected to reinforce this learning habit with a driving, burning passion.
+Above everything else, a habit of continual and meaningful learning is the most useful trait of every Full Sail graduate. In Deployment of Web Applications, you are expected to reinforce this learning habit with a driving, burning passion.
 
 ### Wonder  
 Balancing productivity with finding a beautiful solution is a trait sought after in every professional. Give yourself enough time to explore and grow in areas you have yet to focus in. Doing what others have done will always keep you a step behind. Wonder, explore, push the limits, never settle for the status quo.

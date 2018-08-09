@@ -2,11 +2,12 @@
 
 Take some time to read the Class Information book below. You will be responsible for policies and information found within. The content in this and the Professionalism activity will be required knowledge for the Class Information Quiz this week.
 
-Read: [WAI Class Information](https://brandonbrown.gitbooks.io/wai-class-information/)
+<!-- TODO: Build Class Info Gitbook for DWA -->
+Read: [DWA Class Information](https://Link-to-class-info.book)
 
 Contents of the Class Information book include:
 
-Web Application Integration Overview
+Deployment of Web Applications Overview
 Academic Honesty & OOPS policy
 Late Work Policy
 Consistent Naming Conventions
