@@ -1,29 +1,112 @@
-## Class Information
+# Class Information
 
-Take some time to read the Class Information book below. You will be responsible for policies and information found within. The content in this and the Professionalism activity will be required knowledge for the Class Information Quiz this week.
+Take some time to read the Class Information below. You will be responsible for policies and information found within. The content in this and the Professionalism activity will be required knowledge for the Class Information Quiz.
 
-<!-- TODO: Build Class Info Gitbook for DWA -->
-Read: [DWA Class Information](https://Link-to-class-info.book)
+# Deployment of Web Applications Overview
 
-Contents of the Class Information book include:
+In this course you will complete a custom project defined by you. This project will showcase your ability to conceive of a project to solve a problem for an audience. 
 
-Deployment of Web Applications Overview
-Academic Honesty & OOPS policy
-Late Work Policy
-Consistent Naming Conventions
-Resources
-CONTACT INFORMATION
+### Topic Research
 
-Your Course Director for the month will be: Brandon Brown
+* Identify a **Primary Audience**
+* **Research the Problem** they are having
+* **Propose a Solution** to this problem
+* Identify your **Unique Value Proposition** in how you will address this problem better than your competition
 
-I look forward to working with you this month. Please contact me with questions if you need help with any of the material. It is my pleasure to have this opportunity to help you, and it will be exciting to see your work take shape! All messages will be responded to within 24 - 48 hours. If you do not receive a response by then, please follow up, as it's possible your message may have been missed or not delivered. To be sure, I suggest a follow-up by another method if no response is ever received.
+### Project Spec
 
-Note: Attachments in e-mail are discouraged as they may get held up in quarantine. The preferred way to share information is via links you provide to a repository or a supplemental location. Individual appointments can be requested. In general, email and appointment requests will be responded to in a 24 - 48 hour time period during normal business days.
+Using the initial research you will create a Project Spec that details an application, based upon your research. It will contain the following:
+
+* Brief
+    * Audience
+    * Problem
+    * Solution
+    * Unique Value Proposition
+    * Pitch [Video Link]
+* Spec
+    * Features Definitions
+    * Sitemap
+    * Interface
+        * Information Architecture
+        * Wireframes
+        * Browser Support
+    * Infrastructure
+        * Technical Requirements
+        * Programming Languages
+        * Integrations
+        * Deployment Workflow
+        * Web Host
+* Project Milestones
+    * Pitch
+    * Project Spec
+    * MVP
+    * Alpha
+    * Beta
+    * Live Release
+
+### Deployment Cycle
+
+With this Project Spec in hand you will develop and deploy your application through the specified Project Milestones and onto your proposed live server! You will employ the full use of git and Github to manage the deployment and feedback process.
+
+* Local
+    * MVP
+* Live
+    * Alpha
+    * Beta
+    * Release
+
+# Contact Policy
+
+The entire Capstone Project Team will be available to you throughout the month in addition to any Instructors you would like to request feedback from. Look to your welcome letter for who your primary point of contact will be and the process for requesting feedback from specific Course Directors and Faculty. 
+
+In a team based project communication can create confusion if not organized. To reduce and avoid potential for complications we will be using a [Private Discord Server, which we require you to join](https://bit.ly/WDD_Discord). Please reference your welcome letter in how to get started once logged into the server regarding introductions to your Capstone Team. 
+
+> This will be a primary point of communication and you will be expected to monitor for timely feedback and relevant project information. Please consider installing the related Discord App to your phone and set your notifications for it in a manner that fits your needs. As your role requires, explained deeper in the welcome letter, your interacts with the rest of the team on this communication platform is compulsory.
+
+Please use email ONLY for direct official communication with your Course Director when you need to have a private conversation that is of a sensitive nature or if you are having a major issue that needs direct attention. Questions about assignment clarifications should be done in the course channel so that all instructors are able to provide your requested feedback.
+
+> This usage will not supersede the Full Sail Communication policy regarding the response window, but is structured in this manner to allow for the most rapid response to an issue that may arise and allow for coordination between every member of the Capstone Team assisting you.
 
 Brandon Brown
 Email: [babrown@fullsail.com](mailto:babrown@fullsail.com)
-Slack: See '[Common Questions](./FAQ.md)' assignment.
 Availability: Monday through Friday 11am-2pm EST; Alternate times by appointment.
+
+Chris Chapman
+Email: [cchapman@fullsail.com](mailto:cchapman@fullsail.com)
+Availability: Monday through Friday 1pm-4pm EST; Alternate times by appointment.
+
+
+# Late Work Policy
+
+## Extensions
+
+Extension Requirements:
+
+* Must be requested more than 24 hours prior to the deadline. 
+* May be granted inside of 24 hours under unpreventable extenuating circumstances. 
+
+Permissible reasons for extensions:
+
+* Documented or otherwise proven medical absence.
+* Documented technical limitation (hardware/software issues, Internet outages, 3rd party, etc).
+* Documented severe weather or natural emergency.
+* Similar documented circumstances to those outlined in this document approved by the Dept. Chair or Program Director.
+* Documented student participation with Student Success Services.
+
+Extensions will:
+
+* Carry no GPS or GPA penalty.
+* May not extend the due date past the last scheduled day of class.
+* No extensions in week 4.
+* Extensions may not be granted on exams.
+
+## Late & Missing Work
+
+Late work is considered any work submitted after the deadline that does not qualify for an extension. Unlike extensions, late work does not need a submitted or approved excuse.
+
+Under normal circumstances, late work is not to be accepted beyond 24 hours past the due date. Late work will be given a 25% deduction off the assignment grade. (100- deductions)*.75 Late work will incur a 5% per assignment GPS penalty. Missing work will incur a 10% per assignment GPS penalty.
+
+---
 
 #### NEXT STEP:
 
