@@ -1,20 +1,16 @@
 ## Common Questions
 
-**Do I have to use JavaScript?**
+**No Slack?**
 
-No. At this point in your learning you are expected to choose the appropriate technology, libraries, and frameworks to successfully meet the project’s required outcomes.
+Through the capstone courses we will be using Discord to manage the moment to moment communication and coordination. Discord allows for text and voice chat communication and does so better than Slack. This will have faster response times than email and is modeled on professional development firms usage of full featured communication platforms. 
 
----
-
-**Do I have to build for mobile?**
-
-Yes. You are expected to create a multi-platform and/or multi-device application.
+[Use this link to gain access to our Discord Server!](http://bit.ly/WDD_Discord)
 
 ---
 
-**Do I have to use Atom, VS Code, or Sublime?**
+**Why so much Documentation?**
 
-No. Select the development experience that suits your workflow best.
+In the Capstone Project there are many faculty members and your peers that are invited to review your project. Gaining approval from one faculty member requires informing the entire team. This is accomplished with issues marked as **Change Order** on your github repo. See the Class Workflow Documentation for more info.
 
 ---
 
@@ -24,42 +20,18 @@ Yes. Your project progress and feedback will heavily utilize the tools offered t
 
 ---
 
-**I’m a front-end developer, do I have to create a back-end system?**
-
-Yes. You are responsible for the full scope of the project. Utilizing third-party systems such as Firebase, Heroku, and AWS is permissible.
-
----
-
-**I’m a back-end developer, do I have to design a front-end?**
-
-Yes. Your users will not care how your application is made, but they will care how much they enjoy using it or how easy you make a task.
-
----
-
-**Can I write this in Go, Ruby, Perl, or the latest hotness from the JavaScript world?**
-
-Yes. However, if it was not taught by an instructor, there is no guarantee of support when you run into challenges.
-
----
 
 **Do I have to deploy this project to a live server?**
 
-No. While you’re in WAI, this project will be built and hosted locally. The expectations of DWA are that your project will be prepared to be hosted, so planning for deployment now is recommended.
-
----
-
-**What can I build?**
-
-Almost anything. Part of your pitch will be the appropriateness of your project for a University class-room environment. For more details be sure to read the project activity.
+Yes. While you’re in DWA, this project will Continuously Deployed to your live server for each major milestone. You are responsible for ultimately choosing your technology stack and a host that will adequately support the stack. Discuss with your Course Director free options that exist as hosting can become costly.
 
 ---
 
 **Can I change my project during the month?**
 
-Week 1: Yes
-Week 2: Yes
-Week 3: No
-Week 4: No
+Yes, but it will be difficult. Each milestone has a list of prerequisite requirements that must be completed prior to progression. You are able to start over with a new idea, but you will be required to preform all necessary documentation and seek all required approvals. These prerequisites are required and any milestone without ALL completed and approved will be evaluated as a zero.
+
+Changing your project during this month is something that is discouraged against, but is allowed for.
 
 ---
 
@@ -68,11 +40,3 @@ Week 4: No
 Plan for everything, even AWS or Github going down. If your project relies heavily on this third-party API, having a dooms-day plan is critical.
 
 ---
-
-**How can I plan for my project’s timeline beyond this class?**
-
-You may reach out to your future instructors at any point during this class:
-
-DWA: Christopher Chapman and Joseph Cavagna
-
-Project and Portfolio VII: Jerry Jones

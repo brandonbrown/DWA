@@ -28,7 +28,6 @@ Using the initial research you will create a Project Spec that details an applic
     * Sitemap
     * Interface
         * Information Architecture
-        * Wireframes
         * Browser Support
     * Infrastructure
         * Technical Requirements
@@ -37,12 +36,13 @@ Using the initial research you will create a Project Spec that details an applic
         * Deployment Workflow
         * Web Host
 * Project Milestones
-    * Pitch
-    * Project Spec
+    * Initial Pitch
+    * Initial Project Spec
     * MVP
-    * Alpha
-    * Beta
-    * Live Release
+    * Pivot
+    * Alpha Release
+    * Beta Release
+    * Public Release
 
 ### Deployment Cycle
 
@@ -105,6 +105,12 @@ Extensions will:
 Late work is considered any work submitted after the deadline that does not qualify for an extension. Unlike extensions, late work does not need a submitted or approved excuse.
 
 Under normal circumstances, late work is not to be accepted beyond 24 hours past the due date. Late work will be given a 25% deduction off the assignment grade. (100- deductions)*.75 Late work will incur a 5% per assignment GPS penalty. Missing work will incur a 10% per assignment GPS penalty.
+
+## Bug Bounties
+
+If you have any recommendations for refining the documentation that is part of this course or find any issues, logical, contextual, or even spelling, tell your Course Director for a potential bug bounty of Extra Credit as you have a critical eye!
+
+Additionally, if any term you see is unfamiliar, bring it to your Course Directors attention for proper clarification!
 
 ---
 
