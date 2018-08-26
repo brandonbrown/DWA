@@ -190,6 +190,52 @@ Date of the Beta Release Milestone
 
 Date of the Public Release Milestone
 
+---
+
+## Deployment Standards
+
+Deployment of this milestone should be handled with the following criteria.
+
+Prior to submission, ideally on the first day of the milestone's development preform the following procedures:
+
+* Determine the release version number using semantic versioning. If this is your first release to the Capstone Team you should start with v1.0.0 and increment it according to semver from there.
+* Create a Branch called `[VersionNumber]` + `Release-Pivot` from your `Dev` Branch on github. 
+* This should contain all merged and completed feature branches since your last release.
+* Create a pull request for this `Release-Pivot` branch to merge with the base of `master`.
+* On the Pull Request requesting approval from your primary Course Director 
+    * Optional: Request approvals from any additional preferred members of your Capstone Project Team. Enter a new comment and tag those members requesting they review specific areas of your project.
+
+
+
+On final Milestone Submission:
+
+* Capstone members will need to view your project as a user. Add a comment and provide a link titled `Live URL` to the released code running (accessible url) or an alternatively approved option you have discussed with your Primary Course Director.
+    * If making a native mobile app, a video will need to be made. Keep in mind that through the development process multiple videos may been to be created to represent the current most state of your project.
+* Add a comment to the `Release-Pivot` Pull request, requesting final approval.
+
+Additional, clarification may be needed by the Capstone team, please monitor this pull request until approval to merge is given. 
+
+**Continue working on your project in the `Dev` branch using *feature branch development*.** Approval from your Capstone will take time to evaluate the submission in its entirety. This approval should not hold up development, however, and you should proceed with development. 
+
+### APPROVAL
+
+You have been approved to proceed forward! There may be additional considerations outline that should be addressed but you're doing well!
+
+Follow-Up Actions: 
+
+* Merge the Pull Request
+* **Tag** the corresponding commit with the proper Semantic Version Number.
+* Deploy the tagged commit to your 'live' server.
+* Capture any additional feedback as new issues or add to any existing issues. These should be properly labeled, and assigned to an upcoming Milestone.
+
+### REJECTION
+
+You should suspend your current workflow and address the items outlined in the rejection notice that would be posted to the pull request and notify the Capstone Team once you have remedied the outlined items. Common reasons for rejection would be not following your project spec (once defined), not completing the pre-requisite elements of the milestone, or deviating significantly from the outlined requirements or requests made by the Capstone Team.
+
+Follow-Up Actions:
+
+* Notify Capstone Team once the pull request is addressing the issues outline and re-request review / approval.
+
 # Velocity Check
 
 At the end of the week your progress will be evaluated to see how many story points you have earned. Successfully completed issues will be tallied and a velocity will be established to help provide a baseline for the following week's work for you. You are able to use this velocity check to estimate if you are on track for completion of your final milestones from early steps. This relies on accurate and honest usage of the issue system.
