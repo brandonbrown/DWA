@@ -1,4 +1,4 @@
-## WAI Module 1
+## DWA Module 1
 
 This content gives the student a high-level overview of the class's content, how the class is managed, the expectations placed upon the student, and helps the instructor to better understand the students incoming capabilities.
 

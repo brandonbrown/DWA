@@ -1,16 +1,18 @@
-## WAI Module 2: Pitch and Critique
+# DWA Module 2: Pivot
 
-This is Discovery Phase for the students' projects. The students are tasked with pitching a project concept, proving its viability through the creation of an image based prototype, testing with appropriate users, and presenting the project at end of the week to instructors and classmates.
+The refinement of the project spec will be the primary concern for this milestone. At this time Students have conceived of an idea, roughly spec'd it, built an MVP, and have received significant critical feedback. Now is the time to utilize that feedback to refine the project spec and build out the proper project plan.
 
-> Work spanning Week 1  
->
-> Response to presentation feedback and Project Specifications due before Day 4 Lecture
+This plan will be the final plan of attack for completion and release of the Capstone Application. Students will be seeking approval of this spec which will come in two forms. 
 
-#### Table of Contents
+* Preliminary Approval, which allows the student to begin working on the next milestone.
+* Final Approval after an exhaustive review of the Project Spec. Revisions or clarifications may be requested of the student during this review prior to Final Approval.
 
-##### Module 2 Activities
-1. [Milestone: Project Direction](./Milestone-1.md)
-2. [RFP response](./RFP.md)
-3. [Project Specifications](./Specs.md)
-4. [Stand Ups and Project Management](./Standups.md)
-5. [Research](./Research.md)
+> Milestone Deliverables:
+>  * [ ] Refined Project Spec
+>  * [ ] Velocity Check
+
+## Table of Contents
+
+### Module 2 Activities
+1. [Milestone: Pivot](./Milestone-1.md)
+2. [Research](./Research.md)

@@ -4,9 +4,23 @@ Take some time to read the Class Information below. You will be responsible for 
 
 # Deployment of Web Applications Overview
 
-In this course you will complete a custom project defined by you. This project will showcase your ability to conceive of a project to solve a problem for an audience. 
+In this course you will complete a custom project defined by you with various defined requirements. This project will showcase your ability to conceive of a project to solve a problem for an audience. 
 
-### Topic Research
+## Communication
+
+There are various points of contact that you will need to actively monitor. See your welcome message for further information, but you will be held responsible in monitoring the various points of defined contact and professionally responding to various information requests.
+
+* Discord
+* Github
+* Email
+
+## Capstone Project
+
+Your Capstone Project will consist of the following major components.
+
+### Initial Pitch Research
+
+The Initial Pitch Research will have defined a purpose and audience for your application.
 
 * Identify a **Primary Audience**
 * **Research the Problem** they are having
@@ -15,7 +29,7 @@ In this course you will complete a custom project defined by you. This project w
 
 ### Project Spec
 
-Using the initial research you will create a Project Spec that details an application, based upon your research. It will contain the following:
+Using the initial research you will have create a Project Spec that details an application, based upon your research. It will contain the following:
 
 * Brief
     * Audience
@@ -46,14 +60,18 @@ Using the initial research you will create a Project Spec that details an applic
 
 ### Deployment Cycle
 
-With this Project Spec in hand you will develop and deploy your application through the specified Project Milestones and onto your proposed live server! You will employ the full use of git and Github to manage the deployment and feedback process.
+With your Project Spec in hand you will develop and deploy your application through the specified Project Milestones and onto your proposed live server! You will employ the full use of Git and Github to manage the deployment and feedback process.
+
+Your MVP will have been built with a local deployment expectation.
+
+The Live Release will be built on a live server and accessible by the Capstone Project Team. 
 
 * Local
     * MVP
-* Live
-    * Alpha
-    * Beta
-    * Release
+* Live Release
+    * Alpha Release
+    * Beta Release
+    * Public Release
 
 # Contact Policy
 

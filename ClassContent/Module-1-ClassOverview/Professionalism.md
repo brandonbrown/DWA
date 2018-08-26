@@ -16,6 +16,7 @@ The purpose of this assignment is to provide a location within the platform to t
 
 * Compliance with course, school, and GPS policies
 * Attitude and language in discussion posts, chat platforms, and videos.
+* All defined communication platforms are actively monitored and responded to professionally.
 * Use of proper online etiquette.
 * Use of business format for emails to faculty and staff.
 * Emails that are free of spelling, grammar, and punctuation errors.

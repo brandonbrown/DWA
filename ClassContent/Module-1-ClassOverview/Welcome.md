@@ -9,7 +9,24 @@ In the [video above](http://bit.ly/DWA_Welcome), MPJ, a former Spotify Developer
 
 ---
 
-TODO: Text of welcome letter
+Active points of Communication
+
+* Discord
+* Github 
+* Email
+
+Please configure your notification settings appropriately as you will be actively engaged across multiple platforms. We will consolidate the communication as best as possible, but please engage and respond to any requests on the platform preforming the notification. 
+
+Additionally, please direct any correspondence directly at your intended target.
+
+**Example**: You are notified by email, due to your github settings, of a question asked of you, on an issue posted to Github.
+
+> **Good Response**: You respond to the question, on the specific issue, on Github, *tagging (@userName) the originator of the question*.
+
+> **Bad Response**: You respond to the question, on the specific issue, on Github.
+
+> **Bad Response**:  You respond in Discord with a direct message to the Capstone Team Member asking the question.
+
 
 **Chris Chapman**  
 *Primary Instructor, DWA*

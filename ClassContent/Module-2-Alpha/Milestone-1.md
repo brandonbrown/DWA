@@ -53,7 +53,7 @@ A majority of this milestone's content will be a slight refactoring content you 
     * [Beta Release](#Beta-Release)
     * [Public Release](#Public-Release)
 
-## Project Spec Details
+## Requirements
 
 ### Brief
 
@@ -97,7 +97,7 @@ Don't speak down to the your pitch's audience, but assume limited technical know
 
 ---
 
-No additional information is needed, this is simply a containing section to seperate the spec from the Brief's content.
+No additional information is needed, this is simply a containing section to separate the spec from the Brief's content.
 
 ### Feature Definitions
 
@@ -115,7 +115,7 @@ Similar to the Spec section, this is a container section that separates section 
 
 ### Information Architecture
 
-Using your sitemap as a base structure, use this section to house ALL of your text content. This is a great place to develop all of the content that will appear on your pages, components, and sub sections outside of the constraints of code. In MVC we seperate views from controllers and models, while in the Information Architecture section of your project spec you will separate your content from your code.
+Using your sitemap as a base structure, use this section to house ALL of your text content. This is a great place to develop all of the content that will appear on your pages, components, and sub sections outside of the constraints of code. In MVC we separate views from controllers and models, while in the Information Architecture section of your project spec you will separate your content from your code.
 
 ### Browser Support
 
@@ -123,7 +123,7 @@ Which browsers, operating systems, devices, portrait and landscape do you plan t
 
 ### Infrastructure
 
-Visually diagram the Server portion of the Client Server Request Model. Label each part and summarize the physical or virtualized server totals.
+Similar to the Spec section, this is a container section that separates section contents from other sections.
 
 ### Technical Requirements
 
@@ -198,12 +198,20 @@ The Velocity Check will be calculated and posted for your review. Your role in t
 
 This is a pass/fail assignment where failing represents a significant drop in velocity, attributed to not using the issue system to correctly communicate, with the Capstone Team, your accurate progress or neglecting to make progress toward your set goals.
 
+## Requirements
 
----
+A specific velocity is not required, just the ability to calculate the project's velocity. The following requirements have been developed to ensure the velocity can be accurately checked.
 
-Lecture Material:
+* All milestones defined in your project spec have been created.
+* All issues are assigned to their specific milestone.
+* All issues have estimates.
+* Issues are properly labeled.
+* Milestone related issues are closed.
+    * Upon completion of an issue it is customary to update the estimate to reflect the actual time utilized. This should only be modified at the time of completion of the specific issue. 
+    * Assigning time to multiple issues at once is generally not accepted.
+    * The Capstone Project Team may re-open issues that have erroneously closed or need further work. These re-opened issues will count against your velocity.
 
-Github Issue Client note action items
-Diagraming Servers
-Deployment Workflow
-Velocity Check
+ issues as they become complete. 
+    * Link would be: https://github.com/USERNAME/REPO_NAME/milestones
+* Review your report
+* With the Zenhub extension installed view https://github.com/USERNAME/REPO_NAME/milestones#reports?report=velocity
