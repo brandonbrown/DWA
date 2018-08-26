@@ -1,12 +1,21 @@
 ## Timeline: Daily
 
-1. Brainstorm and commit to project
-2. Research, Build Prototype, User Test
-3. Pitch project with Prototype
-4. Adjust Scope, Design, Static Front-end Development, Testing
-5. Adjust Scope, Design, Static Front-end Development, Testing
-6. Design, Static Front-end Development, Back-end Integration, Testing
-7. Back-end Integration, Testing
-8. Back-end Integration, Testing
-9. Back-end Integration, Testing
-10. MVP
+1. MVP Review, Pivot Definition, Milestone Development
+2. Project Spec Review, Milestone Development
+3. Server Environments, Milestone Development
+4. Git Workflow Hooks, Milestone Development
+5. Deployment Patterns, Milestone Development
+6. Review Alpha, Milestone Development
+7. Milestone Development
+8. Milestone Development
+9. Review Beta
+10. Public Release
+
+
+
+
+Beta
+    Deployment Pattern Applied
+
+Public
+    Finalized Application Deployment uses Defined Workflow

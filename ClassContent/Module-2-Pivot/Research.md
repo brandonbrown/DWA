@@ -60,7 +60,7 @@ Familiarize yourself with proper versioning as it is expected for when you are t
 A very good entry into the concepts of Continuous Integration, Delivery, and Development while providing some clear-cut contrast between each. This article outlines a lot of key terminology.
 
 ## [Continuous Delivery](https://devops.com/continuous-delivery-pipeline/) (5m read)
-This read focuses more on Software Development than for releasing Web Applications but it does a good bit toward reinforcing the idea that iterating on a code base will yield enhancement overtime and with a Continuous Delivery Pipeline developers are able to release new features to end users quickly allowing for fast iteration cycles.
+This read focuses more on Software Development than for releasing Web Applications but it does a good bit toward reinforcing the idea that iterating on a codebase will yield enhancement overtime and with a Continuous Delivery Pipeline developers are able to release new features to end users quickly allowing for fast iteration cycles.
 
 ## [Simple Continuous Delivery Pipeline](https://www.madetech.com/blog/continuous-delivery-building-a-pipeline) (15m read)
 

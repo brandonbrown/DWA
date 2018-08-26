@@ -6,6 +6,21 @@ Take some time to read the Class Information below. You will be responsible for 
 
 In this course you will complete a custom project defined by you with various defined requirements. This project will showcase your ability to conceive of a project to solve a problem for an audience. 
 
+## Rubric
+
+Each assignment will have a [Shared Rubric](https://docs.google.com/spreadsheets/d/1WN6gM6TgAEsF5_dZZt3z80W6AEZs-QNv8AwuVl9CsrI/edit?usp=sharing). Each will self define what its own criteria for the following categories:
+
+* Requirements
+* Best Practices
+* Deployment Standards
+* Documentation
+
+These categories will itemize the grading criteria and allow for self-evaluation for each assignment. 
+
+For the Capstone Project there will be a feedback loop of critique and modification between the instructors and student with regards to enhancements needed to be made to a milestone. This feedback is a constructive process and only the final submission will be evaluated against the rubric. 
+
+> Largely this means that you will have the opportunity to correct *most any* mistake prior to penalization. Communicate with your Capstone Team on the platforms provided for ultimate success!
+
 ## Communication
 
 There are various points of contact that you will need to actively monitor. See your welcome message for further information, but you will be held responsible in monitoring the various points of defined contact and professionally responding to various information requests.

@@ -20,6 +20,13 @@ Yes. Your project progress and feedback will heavily utilize the tools offered t
 
 ---
 
+**Are Issues User Stories?**
+
+
+Yes, mostly. There is room to label some issues as a bug or other type that does not specifically require the format of a user story. 
+
+---
+
 
 **Do I have to deploy this project to a live server?**
 

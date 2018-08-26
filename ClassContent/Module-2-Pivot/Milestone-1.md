@@ -23,7 +23,13 @@ The project spec should be a series of three markdown files contained within you
 
 A majority of this milestone's content will be a slight refactoring content you have already developed and with a light brush up based upon your lessons learned while developing your MVP in addition to some new sections researched this week.
 
-## Project Spec Outline
+## Requirements
+
+The listed pre-requisites for this milestone are required for evaluation. Failure to have completed the pre-requisites will result in a zero for this milestone. Please refer to the class's late policy regarding exceptions and late work.
+
+Below is the Project Spec Outline and definitions of each component that is required.
+
+### Project Spec Outline
 
 * [Brief](#Brief)
     * [Audience](#Audience)
@@ -53,7 +59,6 @@ A majority of this milestone's content will be a slight refactoring content you 
     * [Beta Release](#Beta-Release)
     * [Public Release](#Public-Release)
 
-## Requirements
 
 ### Brief
 
@@ -192,6 +197,34 @@ Date of the Public Release Milestone
 
 ---
 
+## Best Practices
+
+* Logical and concise code comments
+    * Comment only sections of code or particularly complex items. Do not comment every single line of code.
+* [Semantic naming](https://24ways.org/2014/naming-things/) (files, functions, variables, id's, classes, etc...)
+* Codebase is free from:
+    * False Positives
+    * Race / Async Conditions
+    * Logical Errors
+* Common Mistakes
+    * [Multiple Projects In One Repo](https://youtu.be/H27HucyujUg)
+    * [Folder Structure](https://youtu.be/CmTOW-29hpQ)
+    * [Overly Complex Code](https://youtu.be/YlVhgyVfMUE)
+    * Bad [.gitignore](https://youtu.be/iF9W8CeCfNM)
+    * [Too Many Console Logs](https://youtu.be/TJO_NK4F1Ko)
+    * [Attention to Detail](https://youtu.be/V_rHityy378)
+
+## Documentation Standards
+
+* [Correct Instructions](https://youtu.be/G8pQR1ABGe8)
+* [Well formatted / good informational hierarchy / skimmable content](https://youtu.be/cVwlMncCpFM)
+* Should provide a clear and repeatable path for other developers to follow.
+* All links / Images should not be broken.
+    * Links to files within the repo should be relative so that the correct current branch is used when clicking a link in the documentation.
+* Documentation should be in valid github-flavored Markdown.
+* Should be well organized.
+    * The main readme should contain quick access to all documentation. If a section of documentation requires significant explanation / takes up a lot of space, break it out into a separate .md file that the readme properly links to within a table of contents.
+
 ## Deployment Standards
 
 Deployment of this milestone should be handled with the following criteria.
@@ -202,20 +235,17 @@ Prior to submission, ideally on the first day of the milestone's development pre
 * Create a Branch called `[VersionNumber]` + `Release-Pivot` from your `Dev` Branch on github. 
 * This should contain all merged and completed feature branches since your last release.
 * Create a pull request for this `Release-Pivot` branch to merge with the base of `master`.
-* On the Pull Request requesting approval from your primary Course Director 
+* On the Pull Request select to request approval from your primary Course Director 
     * Optional: Request approvals from any additional preferred members of your Capstone Project Team. Enter a new comment and tag those members requesting they review specific areas of your project.
-
-
 
 On final Milestone Submission:
 
-* Capstone members will need to view your project as a user. Add a comment and provide a link titled `Live URL` to the released code running (accessible url) or an alternatively approved option you have discussed with your Primary Course Director.
-    * If making a native mobile app, a video will need to be made. Keep in mind that through the development process multiple videos may been to be created to represent the current most state of your project.
+* Add a link directly to the `docs` folder containing your project spec so that Team members don't need to dig through the various commits to find the correct copy of your docs.
 * Add a comment to the `Release-Pivot` Pull request, requesting final approval.
 
-Additional, clarification may be needed by the Capstone team, please monitor this pull request until approval to merge is given. 
+Additional clarification may be needed by the Capstone team, please monitor this pull request until approval to merge is given. 
 
-**Continue working on your project in the `Dev` branch using *feature branch development*.** Approval from your Capstone will take time to evaluate the submission in its entirety. This approval should not hold up development, however, and you should proceed with development. 
+**Continue working on your project in the `Dev` branch using *feature branch development*.** Approval from your Capstone Team will take time to evaluate the submission in its entirety. This approval should not hold up development, however, and you should proceed with development. 
 
 ### APPROVAL
 

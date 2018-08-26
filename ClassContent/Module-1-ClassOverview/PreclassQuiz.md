@@ -1,4 +1,4 @@
-# Pre-class Survey
+# Pre-class Quiz
 
 1. How do you tag a commit in git?
 2. Define the Github Workflow?
