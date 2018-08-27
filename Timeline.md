@@ -10,12 +10,3 @@
 8. Milestone Development
 9. Review Beta
 10. Public Release
-
-
-
-
-Beta
-    Deployment Pattern Applied
-
-Public
-    Finalized Application Deployment uses Defined Workflow

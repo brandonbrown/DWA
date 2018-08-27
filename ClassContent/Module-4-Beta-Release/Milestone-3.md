@@ -1,8 +1,8 @@
-# Milestone: Alpha Release
+# Milestone: Beta Release
 
-The Capstone Team will need some time to thoroughly review your Revised Project Spec and provide its approval.
+Ideally your deployment pipeline, and servers are setup and tuned to easily deploy your content from your codebase on Github to your product. The next step is to integrate mildly automated deployments into your pipeline!
 
-You should begin working toward your Alpha Release, based upon your proposed Revised Project Spec, as early as you are able. The assumption here is that you will get notified if you are significantly off track and a more in-depth meeting would occur. Additionally, feedback and communication will likely be coming in continuously on the Pivot pull request.
+Additionally, you will be tightening up your application's feature set to hit the Beta Release Milestone.
 
 ## Milestone Pre-requisites
 
@@ -10,20 +10,24 @@ You should begin working toward your Alpha Release, based upon your proposed Rev
 2. [x] Initial Project Spec: Approved
 3. [x] MVP: Approved
 4. [x] Revised Project Spec: Approved
+5. [x] Staging & Live Server Environments Established
+6. [x] Alpha Release of Codebase: Approved
 
 ## Milestone Deliverables
 
-1. [ ] Staging & Live Server Environments Established
-2. [ ] Alpha Release of Codebase
+1. [ ] Deployment Pipeline Configured
+2. [ ] Beta Release of Codebase
 3. [ ] Velocity Check
 
-# Staging & Live Server Environments Established
+# Deployment Pipeline Configured
 
-With your documentation established, including the defined tech stack you will be using, for this milestone you will need to create the server environments for your Capstone Project to live within. This requires two environments: Staging and Live. The core idea here is that if you are working on a project for a client, you wouldn't want to disrupt the user experience on the live as you are testing new features on staging. So the live server will typically be one release behind what is currently being worked on. The Alpha Release is a touch different as there is not typically an earlier release to make.
+Review the research, your Project Spec, and formulate a deployment plan. This can use tools that help automate the tasks for you, like Heroku, or can be a completely custom solution that you build yourself on a Virtual Private Server, like one from Digital Ocean!
 
-That being the case, with the Alpha Release, you need to get your MVP working on the live server. This will require you to determine and test through getting all of the required server components installed, configured properly, and documented. Documented because you will need to recreate this EXACT environment in a second place, the Staging Server but with your next release of code rather than the MVP.
+This deployment plan should be documented and detail what services will be triggered based upon which events.
 
-> For the Alpha Release: The Staging Server should contain all of the new features you are developing and polishing in tandem of building out these server environments while the Live Server should contain your MVP.
+Your Live and Staging Servers should be configured to receive the deployments from your codebase, restarting and/or relaunching any services as needed to facilitate an automatic deployment based upon your chosen tech stack.
+
+> For the Beta Release: The Staging Server should contain all of the new features you are developing and polishing in tandem of building out these server environments while the Live Server should contain your Alpha Release, or subsequent test release. Ensure you are following the release process for the DWA Branch Model.
 
 ## Requirements
 
@@ -31,14 +35,13 @@ The listed pre-requisites for this milestone are required for evaluation. Failur
 
 * Server Environments Live & Staging
     * Configured to Support the Project Spec
-    * Process to deploy has been documented in a step-by-step procedure
-        * Procedure should be reusable on any specific commit or tagged release.
+    * Process to deploy should automated and integrate with github via custom web hook or 3rd party tool.
 * Live Environment
     * Configured Identical to Staging Environment
-    * Running the MVP's Codebase
+    * Running the Alpha or subsequent Release Codebase (not the Beta Release)
 * Staging Environment
     * Configured Identical to Live Environment
-    * Deploy the Alpha Release Milestone's Codebase
+    * Deploy the Beta Release Milestone's Codebase
 * Codebase
     * Logical Design Patterns
     * Commented Code
@@ -52,6 +55,7 @@ The listed pre-requisites for this milestone are required for evaluation. Failur
     * Issues are Up-to-Date 
         * If additional direction or approval regarding a issue occurs on a pull request, you need to link to that conversation as a comment to the original issue. This helps complexly threaded dialogs.
     * All feature direction is properly documented as issues, linked to the corresponding milestone's pull request, and has been executed accurately.
+
 ## Best Practices
 
 * Logical and concise code comments
@@ -82,7 +86,6 @@ The listed pre-requisites for this milestone are required for evaluation. Failur
 * Should be well organized.
     * The main readme should contain quick access to all documentation. If a section of documentation requires significant explanation / takes up a lot of space, break it out into a separate .md file that the readme properly links to within a table of contents.
 
-
 ## Deployment Standards
 
 Deployment of this milestone should be handled with the following criteria.
@@ -90,9 +93,9 @@ Deployment of this milestone should be handled with the following criteria.
 Prior to submission, ideally on the first day of the milestone's development, preform the following procedures:
 
 * Determine the release version number using semantic versioning.
-* Create a Branch called `[VersionNumber]` + `Release-Alpha` from your `Dev` Branch on github. 
+* Create a Branch called `[VersionNumber]` + `Release-Beta` from your `Dev` Branch on github. 
 * This should contain all merged and completed feature branches since your last release.
-* Create a pull request for this `Release-Alpha` branch to merge with the base of `master`.
+* Create a pull request for this `Release-Beta` branch to merge with the base of `master`.
 * On the Pull Request select to request approval from your primary Course Director 
     * Optional: Request approvals from any additional preferred members of your Capstone Project Team. Enter a new comment and tag those members requesting they review specific areas of your project.
 
@@ -102,7 +105,7 @@ On final Milestone Submission:
     *  `Live URL` 
     *  `Staging URL` 
 * If making a native mobile app, a video will need to be made. Keep in mind that through the development process multiple videos may been to be created to represent the current most state of your project.
-* Add a comment to the `Release-Alpha` Pull request, requesting final approval.
+* Add a comment to the `Release-Beta` Pull request, requesting final approval.
 
 Additional clarification may be needed by the Capstone team, please monitor this pull request until approval to merge is given. 
 
@@ -116,8 +119,7 @@ Follow-Up Actions:
 
 * Merge the Pull Request
 * **Tag** the corresponding commit with the proper Semantic Version Number.
-* Deploy the tagged commit to your 'live' server.
-* Merge the `Release-Alpha` branch back into `Dev`, ensuring everything is up to date.
+* Merge the `Release-Beta` branch back into `Dev`, ensuring everything is up to date.
 * Capture any additional feedback as new issues or add to any existing issues. These should be properly labeled, and assigned to an upcoming Milestone.
 
 ### REJECTION

@@ -210,12 +210,14 @@ Date of the Public Release Milestone
     * [Multiple Projects In One Repo](https://youtu.be/H27HucyujUg)
     * [Folder Structure](https://youtu.be/CmTOW-29hpQ)
     * [Overly Complex Code](https://youtu.be/YlVhgyVfMUE)
-    * Bad [.gitignore](https://youtu.be/iF9W8CeCfNM)
+    * [Bad .gitignore](https://youtu.be/iF9W8CeCfNM)
     * [Too Many Console Logs](https://youtu.be/TJO_NK4F1Ko)
     * [Attention to Detail](https://youtu.be/V_rHityy378)
 
 ## Documentation Standards
 
+* Coherent and well structured `README.md` ([Example](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2))
+    * Project Spec Docs should link off of the `README.md`.
 * [Correct Instructions](https://youtu.be/G8pQR1ABGe8)
 * [Well formatted / good informational hierarchy / skimmable content](https://youtu.be/cVwlMncCpFM)
 * Should provide a clear and repeatable path for other developers to follow.
@@ -256,6 +258,7 @@ Follow-Up Actions:
 * Merge the Pull Request
 * **Tag** the corresponding commit with the proper Semantic Version Number.
 * Deploy the tagged commit to your 'live' server.
+* Merge the `Release-Pivot` branch back into `Dev`, ensuring everything is up to date.
 * Capture any additional feedback as new issues or add to any existing issues. These should be properly labeled, and assigned to an upcoming Milestone.
 
 ### REJECTION
@@ -282,12 +285,9 @@ A specific velocity is not required, just the ability to calculate the project's
 * All issues are assigned to their specific milestone.
 * All issues have estimates.
 * Issues are properly labeled.
-* Milestone related issues are closed.
+* Milestone related issues are closed as they become complete.
     * Upon completion of an issue it is customary to update the estimate to reflect the actual time utilized. This should only be modified at the time of completion of the specific issue. 
     * Assigning time to multiple issues at once is generally not accepted.
     * The Capstone Project Team may re-open issues that have erroneously closed or need further work. These re-opened issues will count against your velocity.
-
- issues as they become complete. 
-    * Link would be: https://github.com/USERNAME/REPO_NAME/milestones
-* Review your report
-* With the Zenhub extension installed view https://github.com/USERNAME/REPO_NAME/milestones#reports?report=velocity
+* Review your Velocity Report
+    * With the Zenhub extension installed view https://github.com/USERNAME/REPO_NAME/milestones#reports?report=velocity

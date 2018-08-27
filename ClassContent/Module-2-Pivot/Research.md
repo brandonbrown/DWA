@@ -5,8 +5,7 @@
 1. [Deployment Workflow](#Deployment-Workflow)
 2. [Continuous Integration](#Continuous-Integration)
 3. [Live Environments](#Live-Environments)
-4. Github Issue Client note action items
-5. Velocity Check
+4. [Velocity Check](#Velocity-Check)
 
 ---
 
@@ -90,6 +89,9 @@ This is an older video I had created but the content is still good. The Digital 
 ## [Optional] [Continuous Delivery with Heroku + Webhooks](https://www.youtube.com/watch?v=A1Z6TJ6CzaA) (1.5 hr video)
 
 Previously recorded demo lecture. In this video I create a Heroku account, setup Continuous Delivery from my Github repo, experiment with Continuous Integration (Integrated Unit Tests) and explore Web Hooks from Github.
+
+## [Optional] [Github's API Integration with Webhooks](https://www.youtube.com/watch?v=x2fd8HHk5xM) (40m video)
+Every organization has their own deployment pattern. That said, a lot of them use github and rely on the tools therein to fuel their various deployment efforts. This video is a great exploration of what the Github API can do for your deployments via Webhooks. At the heart of it all, you can write your own application react and deploy your application based upon how you use git. It all boils down to your workflow. This is a look at what is possible more than a how-to. Enjoy!
 
 # Velocity Check
 
