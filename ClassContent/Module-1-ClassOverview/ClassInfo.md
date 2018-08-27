@@ -1,14 +1,14 @@
 # Class Information
 
-Take some time to read the Class Information below. You will be responsible for policies and information found within. The content in this and the Professionalism activity will be required knowledge for the Class Information Quiz.
+Take some time to read the Class Information below. You will be responsible for policies and information found within. The content in this and the Professionalism activity will be considered required knowledge.
 
 # Deployment of Web Applications Overview
 
-In this course you will complete a custom project defined by you with various defined requirements. This project will showcase your ability to conceive of a project to solve a problem for an audience. 
+In this course you will complete a custom project defined by you with various defined requirements. This project will showcase your ability to conceive of a project to solve a problem for an audience, build it, and deploy it. 
 
 ## Rubric
 
-Each assignment will have a [Shared Rubric](https://docs.google.com/spreadsheets/d/1WN6gM6TgAEsF5_dZZt3z80W6AEZs-QNv8AwuVl9CsrI/edit?usp=sharing). Each will self define what its own criteria for the following categories:
+Each assignment will have a [Shared Rubric](https://docs.google.com/spreadsheets/d/1WN6gM6TgAEsF5_dZZt3z80W6AEZs-QNv8AwuVl9CsrI/edit?usp=sharing). Each assignment will self define what its own criteria for the following categories:
 
 * Requirements
 * Best Practices
@@ -17,7 +17,7 @@ Each assignment will have a [Shared Rubric](https://docs.google.com/spreadsheets
 
 These categories will itemize the grading criteria and allow for self-evaluation for each assignment. 
 
-For the Capstone Project there will be a feedback loop of critique and modification between the instructors and student with regards to enhancements needed to be made to a milestone. This feedback is a constructive process and only the final submission will be evaluated against the rubric. 
+For the Capstone Project there will be a feedback loop of critique and modification between the instructors and student with regards to enhancements needed to contribute toward a milestone. This feedback is a constructive process and only the final submission will be evaluated against the rubric.
 
 > Largely this means that you will have the opportunity to correct *most any* mistake prior to penalization. Communicate with your Capstone Team on the platforms provided for ultimate success!
 
@@ -75,7 +75,7 @@ Using the initial research you will have create a Project Spec that details an a
 
 ### Deployment Cycle
 
-With your Project Spec in hand you will develop and deploy your application through the specified Project Milestones and onto your proposed live server! You will employ the full use of Git and Github to manage the deployment and feedback process.
+With your Project Spec in hand you will develop and deploy your application through the specified Project Milestones and onto your live server! You will employ the full use of Git and Github to manage the deployment and feedback process though specific use of the branching, pull request, and issue tracking features on Github.
 
 Your MVP will have been built with a local deployment expectation.
 
@@ -90,7 +90,7 @@ The Live Release will be built on a live server and accessible by the Capstone P
 
 # Contact Policy
 
-The entire Capstone Project Team will be available to you throughout the month in addition to any Instructors you would like to request feedback from. Look to your welcome letter for who your primary point of contact will be and the process for requesting feedback from specific Course Directors and Faculty. 
+The entire Capstone Project Team will be available to you throughout the month in addition to any Instructors you would like to request feedback from directly. Look to your welcome letter for who your primary point of contact will be and the process for requesting feedback from specific Course Directors and Faculty. 
 
 In a team based project communication can create confusion if not organized. To reduce and avoid potential for complications we will be using a [Private Discord Server, which we require you to join](https://bit.ly/WDD_Discord). Please reference your welcome letter in how to get started once logged into the server regarding introductions to your Capstone Team. 
 
@@ -100,6 +100,8 @@ Please use email ONLY for direct official communication with your Course Directo
 
 > This usage will not supersede the Full Sail Communication policy regarding the response window, but is structured in this manner to allow for the most rapid response to an issue that may arise and allow for coordination between every member of the Capstone Team assisting you.
 
+## Capstone Project Team Members (Core)
+
 Brandon Brown
 Email: [babrown@fullsail.com](mailto:babrown@fullsail.com)
 Availability: Monday through Friday 11am-2pm EST; Alternate times by appointment.
@@ -108,6 +110,11 @@ Chris Chapman
 Email: [cchapman@fullsail.com](mailto:cchapman@fullsail.com)
 Availability: Monday through Friday 1pm-4pm EST; Alternate times by appointment.
 
+Edward George Almeida
+Email: [ealmeida@fullsail.com](mailto:ealmeida@fullsail.com)
+
+Jerry Jones
+Email: [gljones@fullsail.com](mailto:gljones@fullsail.com)
 
 # Late Work Policy
 
@@ -135,7 +142,7 @@ Extensions will:
 
 ## Late & Missing Work
 
-Late work is considered any work submitted after the deadline that does not qualify for an extension. Unlike extensions, late work does not need a submitted or approved excuse.
+Late work is considered to be any work submitted after the deadline that does not qualify for an extension. Unlike extensions, late work does not need a submitted or approved excuse.
 
 Under normal circumstances, late work is not to be accepted beyond 24 hours past the due date. Late work will be given a 25% deduction off the assignment grade. (100- deductions)*.75 Late work will incur a 5% per assignment GPS penalty. Missing work will incur a 10% per assignment GPS penalty.
 

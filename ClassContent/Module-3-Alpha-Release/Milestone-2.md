@@ -41,7 +41,6 @@ The listed pre-requisites for this milestone are required for evaluation. Failur
     * Deploy the Alpha Release Milestone's Codebase
 * Codebase
     * Logical Design Patterns
-    * Commented Code
 * Environmental Variables
     * No Sensitive information in your repo (API Keys, Passwords, logins, or other credentials)
         * Also, No active info the history of a file. If you commit sensitive information, you must invalidate that information.
@@ -130,23 +129,23 @@ Follow-Up Actions:
 
 # Velocity Check
 
-At the end of the week your progress will be evaluated to see how many story points you have earned. Successfully completed issues will be tallied and a velocity will be established to help provide a baseline for the following week's work for you. You are able to use this velocity check to estimate if you are on track for completion of your final milestones from early steps. This relies on accurate and honest usage of the issue system.
+At the end of the week your progress will be evaluated to see how many points you have earned based upon closed issues point value. Successfully completed issues will be tallied and a velocity will be established to help provide a baseline for the following week's work. You are able to use this velocity check to estimate if you are on track for completion of your issues from early milestones or if you are off track. This relies on accurate and honest usage of the issue system.
 
-The Velocity Check will be calculated and posted for your review. Your role in this requirement is to maintain your progress within the issue system of github and accurately estimate story points per issue.
+The Velocity Check will calculated by Zenhub and you can view it at any point. Your role in this requirement is to maintain your progress within the issue system of github and accurately estimate time per issue and as you close issues adjust that estimate to how much time was invested in each issue.
 
-This is a pass/fail assignment where failing represents a significant drop in velocity, attributed to not using the issue system to correctly communicate, with the Capstone Team, your accurate progress or neglecting to make progress toward your set goals.
+This is a pass/fail assignment where failing represents a significant drop in velocity, attributed to not using the issue system to correctly communicate, with the Capstone Team, your current and accurate progress or neglecting to make progress toward your set goals.
 
 ## Requirements
 
 A specific velocity is not required, just the ability to calculate the project's velocity. The following requirements have been developed to ensure the velocity can be accurately checked.
 
-* All milestones defined in your project spec have been created.
-* All issues are assigned to their specific milestone.
+* All milestones defined in your project spec have been created within Github.
+* All issues are assigned to their specific milestone in Github.
 * All issues have estimates.
 * Issues are properly labeled.
 * Milestone related issues are closed as they become complete.
     * Upon completion of an issue it is customary to update the estimate to reflect the actual time utilized. This should only be modified at the time of completion of the specific issue. 
-    * Assigning time to multiple issues at once is generally not accepted.
+    * Re-assigning time estimates to multiple closed issues at once is generally not accepted.
     * The Capstone Project Team may re-open issues that have erroneously closed or need further work. These re-opened issues will count against your velocity.
 * Review your Velocity Report
     * With the Zenhub extension installed view https://github.com/USERNAME/REPO_NAME/milestones#reports?report=velocity

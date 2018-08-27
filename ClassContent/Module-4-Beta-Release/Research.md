@@ -11,7 +11,7 @@
 ## [What is DevOps](https://www.youtube.com/watch?v=_I94-tJlovg) (7m video)
 DevOps and Full Stack development require application developers to venture into the operations side of an application and build out infrastructure. Docker is one advanced example solution to the devOps infrastructure question of how can you mirror development and production environments effectively and efficiently. This video is a breakdown of why this move is being made by many companies.
 
-## [A Case for Docker / Docker Demystified]](https://www.youtube.com/watch?v=pGYAg7TMmp0) (8m video)
+## [A Case for Docker / Docker Demystified](https://www.youtube.com/watch?v=pGYAg7TMmp0) (8m video)
 This is a touch of research that will explain how docker solves some potential problems for us.
 
 ## [Optional] [Docker Basics](https://www.lynda.com/Docker-tutorials/What-Docker/485649/514164-4.html?org=fullsail.edu) (2hr Lynda)

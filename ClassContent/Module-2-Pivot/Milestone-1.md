@@ -2,9 +2,9 @@
 
 Walking the line between Waterfall and Agile can be difficult, but initially, getting off the ground requires a bit of planning and clear guidelines of how you intend to kick-off! That is the focus of this milestone. 
 
-You likely have recently recently received a heavy round of feedback for your project. It is time to pivoting from your Initial Project Spec to your finalized Project Spec for this month. Pivoting can come in various degrees and is a term loosely used in our industry that means to modify our direction within a project.
+You likely have recently received a heavy round of feedback for your project's MVP state. It is time to pivoting from your Initial Project Spec to your finalized Project Spec for this month. Pivoting can come in various degrees and is a term loosely used in our industry that means to modify our direction within a project.
 
-How large of a pivoting, in this case, will be defined by you. Based upon the feedback you received from your MVP you will need to determine what changes you need to make to your initial idea as you bring that project to a full launch ready candidate.
+How large of a pivot, in this case, will be defined by you, and approved by the Capstone Team. Based upon the feedback you received from your MVP you will need to determine what changes you need to make to your initial idea as you bring that project to a launch ready candidate.
 
 ## Milestone Pre-requisites
 
@@ -21,7 +21,7 @@ How large of a pivoting, in this case, will be defined by you. Based upon the fe
 
 The project spec should be a series of three markdown files contained within your repo in a folder on the root level labeled docs with a table of contents ```./docs/readme.md``` linking each major article (Brief, Spec, Project Milestones) to its proper section within each corresponding file. Each document should employ markdown formatting and good informational hierarchy techniques to convey their contents effectively.
 
-A majority of this milestone's content will be a slight refactoring content you have already developed and with a light brush up based upon your lessons learned while developing your MVP in addition to some new sections researched this week.
+A majority of this milestone's content will be a slight refactoring of content you have already developed and with a light brush up based upon your lessons learned while developing your MVP in addition to some new sections researched this week.
 
 ## Requirements
 
@@ -64,11 +64,11 @@ Below is the Project Spec Outline and definitions of each component that is requ
 
 ---
 
-The Brief is an executive summary of all elements listed within. This should boil down to one long paragraph, devoting one to two sentences to each of the sections defined. Each section is then further defined in its own content.
+The Brief is an executive summary of all elements listed within. This should boil down to one long paragraph, devoting one to two sentences to each of the sub-sections defined.
 
 ### Audience
 
-Define the primary audience and any secondary markets. The more specific the better. You should be defining the age, gender, education level, social background, level of familiarity with technology, and any other relevant and defining characteristics of the audiences you are intending to building your application.
+Define the primary audience and any secondary markets. The more specific the better. You should be defining the age, gender, education level, social background, level of familiarity with technology, and any other relevant and defining characteristics of the audiences for which you are intending to building your application.
 
 Identify any members of these audiences you have had contact with, any interview notes or feedback summaries and a breakdown of considerations they have influenced.
 
@@ -88,15 +88,15 @@ What separates you from the competition? How are you able to better solve this d
 
 ### Pitch
 
-Rehash your initial pitch content but incorporate all of your research and lessons learned with the MVP. This should be a short 1 - 3 min video. The audience for this should be expected to have no context of your previous pitch (like a potential employer), so make certain to include all the basic information:
+Rehash your initial pitch content but incorporate all of your research and lessons learned with the MVP. This should be a short 1 - 3 min video (post it to Youtube, set as unlisted and link it in your docs). The audience for this should be expected to have no context of your previous pitch (like a potential employer), so make certain to include all the basic information:
 
 * Identify Who You Are
 * Identify Your **Primary Audience**
-* **Research The Problem** They Are Having
+* Discuss **The Defined Problem** They Are Having
 * **Propose A Solution** To This Problem
 * Identify Your **Unique Value Proposition**
 
-Don't speak down to the your pitch's audience, but assume limited technical knowledge when explaining your concepts.
+Don't speak down to your pitch's audience, but assume limited technical knowledge when explaining your concepts.
 
 ### Spec
 
@@ -106,9 +106,9 @@ No additional information is needed, this is simply a containing section to sepa
 
 ### Feature Definitions
 
-The Agile approach in the context of this course and how our workflow will work would be to create an issue for each feature on your Github repo. Each issue should titled and defined in detail as well as be labeled as a 'Feature'. In this section of the documentation you should link to the the issues with a filter applied to only show issues labeled as feature rather than duplicate your efforts by copy/pasting that content into a second place. 
+The Agile approach in the context of this course and how our workflow will work would be to create an issue for each feature on your Github repo. Each issue should be titled and defined in detail as well as labeled as a 'Feature'. In this section of the documentation you should link to the the issues with a filter applied to only show issues labeled as feature rather than duplicate your efforts by copy/pasting that content into a second place. 
 
-> Note: you may need to [create a label](https://help.github.com/articles/creating-a-label/) called feature
+> Note: you may need to [create a label](https://help.github.com/articles/creating-a-label/) called 'feature'.
 
 ### Sitemap
 
@@ -124,7 +124,7 @@ Using your sitemap as a base structure, use this section to house ALL of your te
 
 ### Browser Support
 
-Which browsers, operating systems, devices, portrait and landscape do you plan to support? How did you come to this decision and what are the technical specification resolutions of these devices?
+Which browsers, operating systems, devices, portrait and landscape modes do you plan to support? How did you come to this decision and what are the technical specification resolutions of these devices?
 
 ### Infrastructure
 
@@ -185,15 +185,15 @@ Direct Link to the tagged release of your Pivot on your repo.
 
 ### Alpha Release
 
-Date of the Alpha Release Milestone
+Date of the Alpha Release Milestone. Once completed this should be updated with the proper link.
 
 ### Beta Release
 
-Date of the Beta Release Milestone
+Date of the Beta Release Milestone. Once completed this should be updated with the proper link.
 
 ### Public Release
 
-Date of the Public Release Milestone
+Date of the Public Release Milestone. Once completed this should be updated with the proper link.
 
 ---
 
@@ -233,7 +233,7 @@ Deployment of this milestone should be handled with the following criteria.
 
 Prior to submission, ideally on the first day of the milestone's development preform the following procedures:
 
-* Determine the release version number using semantic versioning. If this is your first release to the Capstone Team you should start with v1.0.0 and increment it according to semver from there.
+* Determine the release version number using semantic versioning. If this is your first release to the Capstone Team you should start with v1.0.0 and increment it according to [semver](https://semver.org/) from there.
 * Create a Branch called `[VersionNumber]` + `Release-Pivot` from your `Dev` Branch on github. 
 * This should contain all merged and completed feature branches since your last release.
 * Create a pull request for this `Release-Pivot` branch to merge with the base of `master`.
@@ -271,23 +271,23 @@ Follow-Up Actions:
 
 # Velocity Check
 
-At the end of the week your progress will be evaluated to see how many story points you have earned. Successfully completed issues will be tallied and a velocity will be established to help provide a baseline for the following week's work for you. You are able to use this velocity check to estimate if you are on track for completion of your final milestones from early steps. This relies on accurate and honest usage of the issue system.
+At the end of the week your progress will be evaluated to see how many points you have earned based upon closed issues point value. Successfully completed issues will be tallied and a velocity will be established to help provide a baseline for the following week's work. You are able to use this velocity check to estimate if you are on track for completion of your issues from early milestones or if you are off track. This relies on accurate and honest usage of the issue system.
 
-The Velocity Check will be calculated and posted for your review. Your role in this requirement is to maintain your progress within the issue system of github and accurately estimate story points per issue.
+The Velocity Check will calculated by Zenhub and you can view it at any point. Your role in this requirement is to maintain your progress within the issue system of github and accurately estimate time per issue and as you close issues adjust that estimate to how much time was invested in each issue.
 
-This is a pass/fail assignment where failing represents a significant drop in velocity, attributed to not using the issue system to correctly communicate, with the Capstone Team, your accurate progress or neglecting to make progress toward your set goals.
+This is a pass/fail assignment where failing represents a significant drop in velocity, attributed to not using the issue system to correctly communicate, with the Capstone Team, your current and accurate progress or neglecting to make progress toward your set goals.
 
 ## Requirements
 
 A specific velocity is not required, just the ability to calculate the project's velocity. The following requirements have been developed to ensure the velocity can be accurately checked.
 
-* All milestones defined in your project spec have been created.
-* All issues are assigned to their specific milestone.
+* All milestones defined in your project spec have been created within Github.
+* All issues are assigned to their specific milestone in Github.
 * All issues have estimates.
 * Issues are properly labeled.
 * Milestone related issues are closed as they become complete.
     * Upon completion of an issue it is customary to update the estimate to reflect the actual time utilized. This should only be modified at the time of completion of the specific issue. 
-    * Assigning time to multiple issues at once is generally not accepted.
+    * Re-assigning time estimates to multiple closed issues at once is generally not accepted.
     * The Capstone Project Team may re-open issues that have erroneously closed or need further work. These re-opened issues will count against your velocity.
 * Review your Velocity Report
     * With the Zenhub extension installed view https://github.com/USERNAME/REPO_NAME/milestones#reports?report=velocity

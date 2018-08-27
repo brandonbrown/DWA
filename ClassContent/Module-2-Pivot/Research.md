@@ -2,10 +2,10 @@
 
 ## Topics
 
-1. [Deployment Workflow](#Deployment-Workflow)
-2. [Continuous Integration](#Continuous-Integration)
-3. [Live Environments](#Live-Environments)
-4. [Velocity Check](#Velocity-Check)
+1. Deployment Workflow
+2. Continuous Integration
+3. Live Environments
+4. Velocity Check
 
 ---
 

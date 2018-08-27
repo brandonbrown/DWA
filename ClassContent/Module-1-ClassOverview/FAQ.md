@@ -1,4 +1,4 @@
-## Common Questions
+# Common Questions
 
 **No Slack?**
 
@@ -10,7 +10,7 @@ Through the capstone courses we will be using Discord to manage the moment to mo
 
 **Why so much Documentation?**
 
-In the Capstone Project there are many faculty members and your peers that are invited to review your project. Gaining approval from one faculty member requires informing the entire team. This is accomplished with issues marked as **Change Order** on your github repo. See the Class Workflow Documentation for more info.
+In the Capstone Project there are many faculty members and your peers that are invited to review your project. Gaining approval from one faculty member requires informing the entire team.
 
 ---
 
@@ -30,7 +30,7 @@ Yes, mostly. There is room to label some issues as a bug or other type that does
 
 **Do I have to deploy this project to a live server?**
 
-Yes. While you’re in DWA, this project will Continuously Deployed to your live server for each major milestone. You are responsible for ultimately choosing your technology stack and a host that will adequately support the stack. Discuss with your Course Director free options that exist as hosting can become costly.
+Yes. While you’re in DWA, this project will be Continuously Deployed to your live servers for each major milestone. You are responsible for ultimately choosing your technology stack and a host that will adequately support that stack. Discuss with your Course Director free options that could support your tech stack as hosting can become costly.
 
 ---
 
