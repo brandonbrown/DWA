@@ -106,7 +106,7 @@ No additional information is needed, this is simply a containing section to sepa
 
 ### Feature Definitions
 
-The Agile approach in the context of this course and how our workflow will work would be to create an issue for each feature on your Github repo. Each issue should be titled and defined in detail as well as labeled as a 'Feature'. In this section of the documentation you should link to the the issues with a filter applied to only show issues labeled as feature rather than duplicate your efforts by copy/pasting that content into a second place. 
+The Agile approach in the context of this course and how our workflow will work would be to create an issue for each feature on your Github repo. Each issue should be titled and defined in detail as well as labeled as a 'Feature'. In this section of the documentation you should link to the issues with a filter applied to only show issues labeled as feature rather than duplicate your efforts by copy/pasting that content into a second place. 
 
 > Note: you may need to [create a label](https://help.github.com/articles/creating-a-label/) called 'feature'.
 
