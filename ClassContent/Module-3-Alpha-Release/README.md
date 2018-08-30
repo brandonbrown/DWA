@@ -14,5 +14,5 @@ At the end of this milestone, the student's codebase should be running on two se
 ## Table of Contents
 
 ### Module 3 Activities
-1. [Milestone: Pivot](./Milestone-2.md)
+1. [Milestone: Alpha Release](./Milestone-2.md)
 2. [Research](./Research.md)

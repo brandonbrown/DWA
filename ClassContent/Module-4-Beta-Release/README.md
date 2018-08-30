@@ -14,5 +14,5 @@ Students will additionally be releasing the beta version of their application an
 ## Table of Contents
 
 ### Module 4 Activities
-1. [Milestone: Pivot](./Milestone-3.md)
+1. [Milestone: Beta Release](./Milestone-3.md)
 2. [Research](./Research.md)

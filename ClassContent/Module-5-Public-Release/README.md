@@ -9,5 +9,5 @@ Students will be releasing the public version of their application and all relat
 ## Table of Contents
 
 ### Module 4 Activities
-1. [Milestone: Pivot](./Milestone-3.md)
+1. [Milestone: Public Release](./Milestone-4.md)
 2. [Research](./Research.md)
