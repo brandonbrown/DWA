@@ -23,5 +23,5 @@
 2. [Research](./Module-4-Beta-Release/Research.md)
 
 ##### [Module 5: Public Release](./Module-5-Public-Release/README.md)
-1. [Milestone: Public Release](./Module-5-Public-Release/Milestone-1.md)
+1. [Milestone: Public Release](./Module-5-Public-Release/Milestone-4.md)
 2. [Research](./Module-5-Public-Release/Research.md)
