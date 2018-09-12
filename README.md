@@ -1,6 +1,6 @@
 ### Current Content Status
 
-DWA Implementation of WAI Format.
+WAI Format to follow DWA Capstone Direction
 
 ### Table of Contents
 
